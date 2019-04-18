@@ -12,7 +12,10 @@ IndeedScrapper <- function(page,url = 'https://www.indeed.com/cmp/Ryder/reviews?
   
   stopifnot(length(container) > 0)
   
-  container[seq(2,length(container),2)] %>% map_df(.,.f=parseContainer)
+  # attempt to make program move past error
+  parseContainer_Safe <- safely(parseContainer)
+  
+  container[seq(2,length(container),2)] %>% map_df(.,.f=parseContainer_Safe)
   
   
 }
