@@ -12,7 +12,15 @@ IndeedScrapper <- function(page,url = 'https://www.indeed.com/cmp/Ryder/reviews?
   
   stopifnot(length(container) > 0)
   
-  container[seq(2,length(container),2)] %>% map_df(.,.f=parseContainer)
+  # safely
+  
+  parseContainer_safe <- safely(parseContainer)
+  
+  container[seq(2,length(container),2)] %>% 
+    map(.,.f=parseContainer_safe) %>% 
+    map('result') %>% 
+    compact() %>% 
+    reduce(rbind.data.frame)
   
   
 }
