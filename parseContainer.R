@@ -1,4 +1,4 @@
-parseContainer <- function(containerBin){
+parseContainer <- function(containerBin,Org = NULL){
   
   library(rvest)
   library(tidyverse)
@@ -51,7 +51,8 @@ containerBin %>% html_nodes('.cmp-ratingNumber') %>% html_text() %>% as.integer(
    Title = title,
    Review = review,
    Pros = Pros,
-   Cons = Cons
+   Cons = Cons,
+   Org = Org
    
    
  )
