@@ -2,15 +2,15 @@
 
 ## Execute the following commands in R
 
-library(rvest) \n
+library(rvest) 
 
-library(dplyr) \n
+library(dplyr) 
 
-library(purrr) \n
+library(purrr) 
 
-library(magrittr) \n
+library(magrittr)
 
-library(readr) \n
+library(readr)
 
 source('IndeedScrapper.R')
 
