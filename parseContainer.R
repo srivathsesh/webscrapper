@@ -1,3 +1,16 @@
+#' Parses each review in a page separately. This function is called from IndeedScrapper()
+#'
+#' @param containerBin contents under div.cmp-review-container node in the webpage
+#' @param Org character, organization name
+#'
+#' @return list,
+#' @export
+#'
+#' @examples url <- 'https://www.indeed.com/cmp/Ryder/reviews?fcountry=ALL&fjobtitle=Driver&start=20' ; 
+#' webpage <- read_html(url); container <- html_nodes(webpage,'div.cmp-review-container') %>% html_children(); 
+#' parseContainer(container[2],'Ryder')
+#' 
+#' @author Sri Seshadri Data Scientist SCS Ryder Logistics
 parseContainer <- function(containerBin,Org = NULL){
   
   library(rvest)

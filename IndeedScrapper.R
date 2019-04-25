@@ -1,3 +1,14 @@
+#' webscrape indded.com for ratings, reviews, pros and cons. Wrapper for parsecontainer
+#'
+#' @param page numeric, page number of review webpage 
+#' @param url string, contains link to indeed search page EXCEPT the page number, see example
+#' @param Org string, organization or company name
+#'
+#' @return dataframe containing, reviewer ID, Position, State, City, Date of review, Rating, Title of review, Review, Pros, Cons and Org
+#' @export
+#'
+#' @examples IndeedScrapper(20,'https://www.indeed.com/cmp/Ryder/reviews?fcountry=ALL&fjobtitle=Driver&start=','Ryder')
+#' @author Sri Seshadri Data Scientist Ryder
 IndeedScrapper <- function(page,url = 'https://www.indeed.com/cmp/Ryder/reviews?fcountry=ALL&fjobtitle=Driver&start=',Org = NULL){
   
   library(rvest)

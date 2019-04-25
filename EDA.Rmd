@@ -1,0 +1,42 @@
+---
+title: "Indeed review explore"
+author: "Sri Seshadri"
+date: "4/24/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+load('Reviews.RData')
+library(tidyverse)
+library(magrittr)
+library(skimr)
+
+skim(IndeedReviews)
+
+# Where is ID missing ???
+
+IndeedReviews %>% 
+  filter(is.na(ID))
+
+# Looks like there are duplicated data ... Wonder how it got in here? 
+IndeedReviews[duplicated(IndeedReviews),]
+
+# Removing duplicated data and storing it back in the same variable
+
+IndeedReviews %<>% distinct(.)
+
+```
+
+```{r}
+IndeedReviews %>% 
+  ggplot(aes(x=Org )) + geom_bar() + coord_flip()
+
+IndeedReviews %>% 
+  ggplot(aes(x=Org, y = Rating))
+
+```
+
