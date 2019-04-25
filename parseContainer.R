@@ -3,7 +3,18 @@
 #' @param containerBin contents under div.cmp-review-container node in the webpage
 #' @param Org character, organization name
 #'
-#' @return list,
+#' @return tibble, with the following columns
+#'                    ID ,
+#'                   Position,
+#'                   State,
+#'                   City,
+#'                   Date,
+#'                   Rating,
+#'                   Title,
+#'                   Review,
+#'                   Pros,
+#'                   Cons,
+#'                   Org
 #' @export
 #'
 #' @examples url <- 'https://www.indeed.com/cmp/Ryder/reviews?fcountry=ALL&fjobtitle=Driver&start=20' ; 
