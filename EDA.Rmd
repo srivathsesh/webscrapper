@@ -35,8 +35,19 @@ IndeedReviews %<>% distinct(.)
 IndeedReviews %>% 
   ggplot(aes(x=Org )) + geom_bar() + coord_flip()
 
-IndeedReviews %>% 
-  ggplot(aes(x=Org, y = Rating))
 
+```
+
+
+```{r}
+
+  beanplot::beanplot(Rating~Org,data = IndeedReviews,method = "jitter" ,show.names = T,ylab = "Rating")
+```
+
+
+```{r}
+IndeedReviews %<>% 
+  mutate(EmpStatus = map(Position,function(x) str_match_all(x, "(?<=\\().+?(?=\\))")[[1]])) %>% 
+  mutate(EmpStatus = map_chr(EmpStatus,pluck(1)))
 ```
 
