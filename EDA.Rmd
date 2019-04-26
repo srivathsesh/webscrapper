@@ -46,8 +46,140 @@ IndeedReviews %>%
 
 
 ```{r}
-IndeedReviews %<>% 
+IndeedReviews %>% 
   mutate(EmpStatus = map(Position,function(x) str_match_all(x, "(?<=\\().+?(?=\\))")[[1]])) %>% 
-  mutate(EmpStatus = map_chr(EmpStatus,pluck(1)))
+  mutate(EmpStatus = map_chr(EmpStatus,pluck(1))) %>% 
+  mutate(Position = map_chr(Position,function(x)unlist(str_split(x,"\\("))[1]))
+
+library(tsibble)
+IndeedReviews %>% 
+group_by(Org,Month = floor_date(Date,"month")) %>% 
+  summarise(Cts = n()) %>% ungroup() -> Summary 
+
+Summary %<>%   
+spread(Org,Cts)
+  
+  
+Summary <- xts::xts(Summary[,-1],order.by = Summary$Month)
+
+autoplot(Summary) + theme_bw() + geom_point()
+  
 ```
 
+
+```{r}
+IndeedReviews %<>% 
+  mutate(State = str_trim(str_squish(State))) %>% 
+  mutate(StateCleaned = map_chr(State,function(x) str_split(x,"\\s")[[1]][1])) %>% 
+  mutate(StateCleaned = gsub(x = IndeedReviews$StateCleaned,pattern = "[//.]$","")) %>% 
+  mutate(StateCleaned = ifelse(StateCleaned == 'California','CA',StateCleaned)) %>% 
+  mutate(StateCleaned = ifelse(nchar(StateCleaned) > 2, NA, toupper(StateCleaned))) %>% 
+  mutate(City = str_trim(str_squish(City)))
+
+library(ggmap)
+register_google((key = 'AIzaSyB9Edc5Tzq7AWldaZ_Wag27G1R0qnzHOCM'))
+
+
+#----------------------------------------------------------
+#             Function to get lat, lon
+#----------------------------------------------------------
+
+getlatlon <-  function(StateCleaned,City){
+  tryCatch({
+    geocode(paste(StateCleaned,City))
+  },
+  error = function(e){
+    data.frame(lon = NA,
+               lat = NA)
+  })
+  
+}
+
+
+
+
+# Get lat and lon for the locations
+IndeedReviews %<>% cbind.data.frame(.,
+IndeedReviews %>% select(StateCleaned,City) %>% 
+ pmap_df(getlatlon)) 
+  
+
+
+
+```
+
+
+```{r}
+library(maps)
+
+usa <- map_data("usa")
+canada <- map_data("worldHires", "canada")
+
+ggplot(data = usa,aes(x=long,y=lat,group = group)) + geom_polygon() -> m1
+  m1 + geom_polygon(data = canada,aes(x=long,y=lat,group = group)) +
+    geom_point(data = IndeedReviews,aes(y=lat,x=lon,group = Rating, color = Rating)) + facet_wrap(~Org)
+```
+
+
+```{r,warning=F}
+library(leaflet)
+
+qpal <- colorNumeric("YlOrRd", IndeedReviews$Rating, n = 4)
+
+leaflet(IndeedReviews) %>% 
+  addTiles('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png') %>% 
+  addCircles(~lon,~lat,color = ~qpal(Rating),label = ~Org) %>% 
+  addLegend("bottomright", pal = qpal, values = ~Rating, 
+            title = "Rating", opacity = 1)
+
+```
+
+
+```{r,warning=F}
+
+IndeedReviews %>% 
+  filter(Org == 'Ryder') %>% 
+  select(Rating) -> RyderRating
+
+qpal <- colorNumeric("YlOrRd",RyderRating$Rating, n = 4)
+
+leaflet(IndeedReviews %>% 
+          filter(Org=='Ryder')) %>% 
+  addTiles('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png') %>% 
+  addCircles(~lon,~lat,color = ~qpal(Rating),label = ~Org) %>% 
+  addLegend("bottomright", pal = qpal, values = ~Rating, 
+            title = "Rating", opacity = 1)
+
+```
+
+
+```{r,warning=F}
+IndeedReviews %>% 
+  filter(Org == 'XPO') %>% 
+  select(Rating) -> XPO
+
+qpal <- colorNumeric("YlOrRd",XPO$Rating, n = 4)
+
+leaflet(IndeedReviews %>% 
+          filter(Org=='XPO')) %>% 
+  addTiles('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png') %>% 
+  addCircles(~lon,~lat,color = ~qpal(Rating),label = ~Org) %>% 
+  addLegend("bottomright", pal = qpal, values = ~Rating, 
+            title = "Rating", opacity = 1)
+```
+
+
+```{r,warning=F}
+IndeedReviews %>% 
+  filter(Org == 'Pensky') %>% 
+  select(Rating) -> Pensky
+
+qpal <- colorNumeric("YlOrRd",Pensky$Rating, n = 4)
+
+leaflet(IndeedReviews %>% 
+          filter(Org == 'Pensky')) %>% 
+  addTiles('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png') %>% 
+  addCircles(~lon,~lat,color = ~qpal(Rating),label = ~Org) %>% 
+  addLegend("bottomright", pal = qpal, values = ~Rating, 
+            title = "Rating", opacity = 1)
+```
