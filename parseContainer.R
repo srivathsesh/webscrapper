@@ -61,7 +61,9 @@ containerBin %>% html_nodes('.cmp-ratingNumber') %>% html_text() %>% as.integer(
     html_text() %>% ifelse(is_empty(.),NA,.) -> Cons
   # Parse ID
   child <- containerBin %>% html_children()
-  child[3] %>% html_attrs() %>% unlist %>% pluck(2) %>% 
+  child[3] %>% html_attrs() %>% unlist -> childarray
+  
+  childarray['data-reviewid'] %>% 
     ifelse(is_empty(.),NA,.) %>% as.numeric() -> ID
   
   # return as a list

@@ -75,7 +75,7 @@ IndeedReviews <- rbind.data.frame(scrapedData,scrapedData_Truck_Driver)
 
 #  save data as .RData
 
-save(IndeedReviews,file = 'Reviews.RData')
+#save(IndeedReviews,file = 'Reviews.RData')
 
 # At a later time JB hunt was asked to be added to the mix, the code below accomplishes that.
 
@@ -95,5 +95,26 @@ inputargs3 %>%
   pmap(.f=function(x,y,z) IndeedScrapper_safe(x,y,z)) %>% 
   map('result') %>% 
   compact() %>% 
-  reduce(rbind.data.frame)
+  reduce(rbind.data.frame) -> JBHunt_Driver
 
+
+JB_Hunt_Pages2 <- seq(0,360,20)
+JBHunt_url2 <- 'https://www.indeed.com/cmp/J.b.-Hunt/reviews?fcountry=ALL&fjobtitle=Truck+Driver&start'
+jbhurls2 <- rep(JBHunt_url2,length(JB_Hunt_Pages2))
+
+jbhuntorg2 <-  rep('JBHunt',length(JB_Hunt_Pages2))
+
+inputargs32 <- list(JB_Hunt_Pages2,jbhurls2,jbhuntorg2)
+
+
+inputargs32 %>% 
+  pmap(.f=function(x,y,z) IndeedScrapper_safe(x,y,z)) %>% 
+  map('result') %>% 
+  compact() %>% 
+  reduce(rbind.data.frame) -> JBHunt_Driver2
+
+JBHUntConsolidated <- rbind.data.frame(JBHunt_Driver,JBHunt_Driver2) %>% distinct()
+
+IndeedReviews %<>% rbind.data.frame(IndeedReviews,JBHUntConsolidated)
+
+save(IndeedReviews,file = 'Reviews.RData')
