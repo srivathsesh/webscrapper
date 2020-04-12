@@ -1,0 +1,623 @@
+---
+title: "NLP - FTPIntel"
+author: "Sri Seshadri"
+date: "7/14/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+
+
+```{r}
+library(rvest)
+library(magrittr)
+library(tidytext)
+library(tidyverse)
+library(ggplot2)
+
+url <- 'https://www.truckinginfo.com/334884/is-it-time-to-rethink-shipper-carrier-contracts' # tech / distruption
+url2 <- 'https://www.overdriveonline.com/slowdown-watch-how-slow-how-far-down/'# economy
+url3 <- 'https://tech2.org/truckers-fears-have-hit-recession-level-morgan-stanley/' # jobs,economy
+url4 <- 'https://www.wsj.com/articles/logistics-transport-hiring-bounced-back-in-june-11562350002' # jobs, economy
+url5 <- 'https://www.overdriveonline.com/lenders-tighten-credit-standards-for-owner-operator-truck-purchases-as-market-softens/?utm_medium=overdrive&utm_campaign=site_click&utm_source=popular' # jobs, economy
+url6 <- 'https://www.ttnews.com/articles/june-trailer-orders-nosedive' # economy
+url7 <- 'https://thedailycoin.org/2019/07/18/transportation-recession-gets-uglier/' # economy , jobs
+url8 <- 'https://www.barchart.com/story/news/freightwaves/3353764/trailer-orders-plunge-to-10-year-low-in-june' # economy jobs
+url9 <- 'https://www.fleetowner.com/economics/us-retailers-factories-enjoy-solid-june-fed-weighs-cut' # truck sales economy
+url10 <- 'https://wolfstreet.com/2019/07/09/heavy-truck-sales-highest-since-2006-but-orders-collapsed-what-gives/' # truck sales economy
+url11 <- 'https://www.truckinginfo.com/336158/is-trucking-in-the-midst-of-a-freight-recession' # economy jobs
+url12 <- 'https://www.inboundlogistics.com/cms/article/looking-for-a-new-logistics-provider-first-things-first/' # tech BestPrac
+url13 <- 'https://www.inboundlogistics.com/cms/article/technology-trends-you-cant-ignore/' # tech
+url14 <- 'https://www.inboundlogistics.com/cms/article/digital-forwarders-gain-traction/' # tech/ distruption
+url15 <- 'https://www.inboundlogistics.com/cms/article/whos-paying-for-free-shipping/' # Tech BestPrac/ distruption
+url16 <- 'https://www.inboundlogistics.com/cms/article/automation-innovation/' # tech
+url17 <- 'https://www.inboundlogistics.com/cms/article/achieving-transportation-and-logistics-success-in-the-on-demand-age/'# tech
+url18 <- 'https://www.inboundlogistics.com/cms/article/your-next-walmart-run-dont-forget-the-ai/'# tech
+url19 <- 'https://www.truckinginfo.com/336328/peloton-announces-level-4-driverless-truck-platooning-system' # tech
+url20 <- 'https://www.truckinginfo.com/336365/technology-is-changing-how-carriers-shippers-and-brokers-connect' # tech
+
+
+webpage <- read_html(url)
+webpage2 <- read_html(url2)
+webpage3 <- read_html(url3)
+webpage4 <- read_html(url4)
+webpage5 <- read_html(url5)
+webpage6 <- read_html(url6)
+webpage7 <- read_html(url7)
+#webpage8 <- read_html(url8)
+webpage9 <- read_html(url9)
+webpage10 <- read_html(url10)
+webpage11 <- read_html(url11)
+webpage12 <- read_html(url12)
+webpage13 <- read_html(url13)
+webpage14 <- read_html(url14)
+webpage15 <- read_html(url15)
+webpage16 <- read_html(url16)
+webpage17 <- read_html(url17)
+webpage18 <- read_html(url18)
+webpage19 <- read_html(url19)
+webpage20 <- read_html(url20)
+
+
+html_nodes(webpage,'div.content-body') %>% html_text() -> blobText
+html_nodes(webpage2,'div.usercontent') %>% html_text() -> blobText2
+html_nodes(webpage3,'div.inner-wrapper') %>% html_text() -> blobText3
+html_nodes(webpage4,'div.article-content') %>% html_text() -> blobText4
+html_node(webpage5,'div.usercontent') %>% html_text() -> blobText5
+html_node(webpage6,'div.field.field-name-field-body-text.field-type-text-with-summary.field-label-hidden.field-wrapper') %>% html_text() -> blobText6
+html_node(webpage7,'div.entry-inner') %>% html_text()-> blobText8
+#html_node(webpage8,'div.article-content') %>% html_text()
+striprtf::read_rtf('freightwaves.rtf') -> blobText9
+html_nodes(webpage9,'div.article-content') %>% html_text() -> blobText9
+html_node(webpage10,'div.entry-content') %>% html_text() ->blobText10
+html_node(webpage11,'div.content-body') %>% html_text() -> blobText11
+html_node(webpage12,'div.story') %>% html_text() -> blobText12
+html_node(webpage13,'div.story') %>% html_text() -> blobText13
+html_node(webpage14,'div.story') %>% html_text() -> blobText14
+html_node(webpage15,'div.story') %>% html_text() -> blobText15
+html_node(webpage16,'div.story') %>% html_text() -> blobText16
+html_node(webpage17,'div.story') %>% html_text() -> blobText17
+html_node(webpage18,'div.story') %>% html_text() -> blobText18
+html_node(webpage19,'div.content-body') %>% html_text() -> blobText19
+html_node(webpage20,'div.content-body') %>% html_text() -> blobText20
+
+corpus <- tibble(document = as.factor(c(1,2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20)), text = c(blobText,blobText2,blobText3,blobText4,blobText5,blobText6,blobText8,blobText9,blobText10,blobText11,blobText12,
+                                                                                               blobText13,blobText14,blobText15,blobText16,blobText17,blobText18,blobText19, blobText20))
+
+removeURL <- function(x) gsub("http[[:alnum:][:punct:]]*", "", x)
+corpus %<>% 
+  mutate(text = map_chr(text,function(x) removeURL(x)))
+
+# get stop words just in case
+data("stop_words")
+```
+
+```{r}
+# tidytext remove punctuation automatically... fantastic!
+
+corpus %>% 
+  unnest_tokens(words,text,collapse = T,token = "words")%>% 
+  count(document,words,sort = T) %>% 
+  # remove numbers
+  filter(!str_detect(words,"[0-9]")) -> termfreqwithStopWords
+
+termfreqwithStopWords %>% 
+  mutate(words = as.factor(words)) %>% 
+  group_by(document) %>% 
+  top_n(15,n) %>% 
+    ungroup() %>% 
+    #mutate(words = reorder(words,n)) %>% 
+    ggplot(aes(reorder_within(words,n,document,sep = "."),n, fill = document)) + geom_col() + facet_wrap(~document) + coord_flip() + theme_bw() + xlab("words")
+
+termfreqwithStopWords %>% 
+  anti_join(stop_words,by = c('words' = 'word')) -> termfreqwithoutStopWords
+
+termfreqwithoutStopWords %>% 
+  mutate(words = as.factor(words)) %>% 
+  group_by(document) %>% 
+  top_n(10,n) %>% 
+    ungroup() %>% 
+    #top_n(20,n) %>% 
+    #mutate(words = reorder(words,n)) %>% 
+    ggplot(aes(reorder_within(words,n,document,sep = "."),n, fill = document)) + geom_col() + facet_wrap(~document,scales = "free",ncol = 4) + coord_flip() + theme_bw() + xlab("words")
+
+
+termfreqwithoutStopWords %>% 
+  ungroup() %>% 
+  mutate(words = as.factor(words)) %>% 
+  group_by(words) %>% 
+  summarise(n = sum(n)) %>% 
+  ungroup() %>% 
+  top_n(25,n) %>% 
+    ggplot(aes(reorder(words,n),n)) + geom_col() + coord_flip() + theme_bw() + xlab("words")
+
+```
+
+
+
+## Should I Stem or Not Stem?
+
+```{r}
+library(SnowballC)
+
+corpus %>% 
+  unnest_tokens(words,text,collapse = T) %>% 
+  anti_join(stop_words,by = c('words' = 'word')) %>% 
+  mutate(words = wordStem(words)) %>% 
+  count(document,words,sort = T) %>% 
+  anti_join(stop_words,by = c('words' = 'word')) %>% 
+  # remove numbers
+  filter(!str_detect(words,"[0-9]")) -> termfreqStemmed
+
+
+termfreqStemmed %>% 
+  ungroup() %>% 
+  mutate(words = as.factor(words)) %>% 
+  group_by(words) %>% 
+  summarise(n = sum(n)) %>% 
+  ungroup() %>% 
+  top_n(25,n) %>% 
+    ggplot(aes(reorder(words,n),n)) + geom_col() + coord_flip() + theme_bw() + xlab("words")
+
+
+termfreqStemmed %>%
+  mutate(words = as.factor(words)) %>% 
+  group_by(document) %>% 
+  top_n(10,n) %>% 
+    ungroup() %>% 
+    #top_n(20,n) %>% 
+    #mutate(words = reorder(words,n)) %>% 
+    ggplot(aes(reorder_within(words,n,document,sep = "."),n, fill = document)) + geom_col() + facet_wrap(~document,scales = "free",ncol = 2) + coord_flip() + theme_bw() + xlab("words")
+  
+```
+
+Yikes! I'll stay away from Stemming for now!!
+
+
+# Do we find Zipf's law proved here ?
+
+```{r}
+termfreqwithoutStopWords %>% 
+  mutate(words = as.factor(words)) %>%
+  group_by(document) %>% 
+  summarise(total = sum(n)) -> totalwords
+
+termfreqwithoutStopWords %>% 
+  left_join(.,totalwords) %>% 
+  ggplot(aes(n/total, fill = document)) + geom_histogram() + facet_wrap(~document) + theme_bw() + ggtitle("Zipfs law?")
+```
+
+```{r}
+termfreqwithoutStopWords %>% 
+  left_join(.,totalwords) %>% 
+  bind_tf_idf(words,document,n) %>% 
+  arrange(desc(tf_idf)) -> tfidf
+
+termfreqStemmed %>% 
+  left_join(.,totalwords) %>% 
+  bind_tf_idf(words,document,n) %>% 
+  arrange(desc(tf_idf)) -> tfidf2
+
+  tfidf %>% 
+    arrange(desc(tf_idf)) %>% 
+    top_n(25) %>% 
+    ggplot(aes(reorder(words,tf_idf), tf_idf)) + geom_col() + coord_flip() + theme_bw() + xlab("")
+  
+  tfidf2 %>% 
+    arrange(desc(tf_idf)) %>% 
+    top_n(25) %>% 
+    ggplot(aes(reorder(words,tf_idf), tf_idf)) + geom_col() + coord_flip() + theme_bw() + xlab("")
+  
+
+tfidf %>% 
+  mutate(words = factor(words,levels = rev(unique(words)))) %>% 
+  filter(document %in% c(1,16,17,20)) %>% 
+  group_by(document) %>% 
+  top_n(15) %>% 
+  ungroup() %>% 
+  ggplot(aes(words, tf_idf, fill = document)) +
+  geom_col(show.legend = FALSE) +
+  labs(x = NULL, y = "tf-idf") +
+  facet_wrap_paginate(~document, ncol = 2,nrow = 2 ,scales = "free",page = 1) +
+  coord_flip() + theme_bw()
+
+tfidf2 %>% 
+  mutate(words = factor(words,levels = rev(unique(words)))) %>% 
+  #filter(document %in% c(1,16,17,20)) %>% 
+  group_by(document) %>% 
+  top_n(15) %>% 
+  ungroup() %>% 
+  ggplot(aes(reorder_within(words,tf_idf,document,sep = "."), tf_idf, fill = document)) +
+  geom_col(show.legend = FALSE) +
+  labs(x = NULL, y = "tf-idf") +
+  facet_wrap_paginate(~document, ncol = 2,nrow = 2 ,scales = "free",page = 1) +
+  coord_flip() + theme_bw()
+```
+
+
+# relevance 
+
+```{r}
+# vectorized with NA...trying to be a bit smart ha ha ...
+tfidf %>% 
+  select(words,document,tf_idf) %>% 
+  spread(document,tf_idf) -> tfidfspread
+
+tfidf2 %>% 
+  select(words,document,tf_idf) %>% 
+  spread(document,tf_idf) -> tfidfspread2
+
+# replace NA with 0
+tfidfspread %<>% 
+  replace(.,is.na(.),0)
+
+tfidfspread2 %<>% 
+  replace(.,is.na(.),0)
+
+
+library(text2vec)
+
+# turning tfidfspread into matrix
+
+#cosinemat <- t(as.matrix(tfidfspread[,-1]))
+
+cosinemat <- t(as.matrix(tfidfspread2[,-1]))
+
+cosinesimil <- sim2(cosinemat, method = "cosine", norm = "none")
+
+diag(cosinesimil) <- 1
+
+cbind(expand.grid(x = seq(1:20)[-7], y = seq(1:20)[-7]),zp=as.vector(cosinesimil)) -> dat
+lattice::levelplot(zp ~ x*y, data = dat, main = "document similarity", xlab = "document", ylab = "document")
+
+#as.data.frame(dat) %>% arrange(desc(z)) %>% tail(-19) %>% head(10)
+```
+
+```{r}
+pca <- prcomp(cosinemat)
+
+summary(pca)
+
+```
+
+# clustering
+
+```{r}
+library(cluster)
+library(factoextra)
+colnames(cosinemat) <- tfidfspread2$words
+
+cosinematScaled <- scale(cosinemat)
+rownames(cosinemat) <- c("1",  "2" , "3" , "4"  ,"5" , "6"  ,"8" , "9" , "10" ,"11" ,"12" ,"13" ,"14" ,"15" ,"16" ,"17" ,"18" ,"19" ,"20")
+knclust<- fviz_nbclust(cosinematScaled,kmeans, method = "silhouette")
+
+plot(knclust)
+
+kmClusters <- kmeans(cosinematScaled,2)
+
+kmp <- fviz_cluster(kmClusters,cosinematScaled,
+             main = "K - means with 2 clusters",repel = T,labelsize = 10, ellipse.type = "norm") + theme_bw()
+kmp2 <- fviz_cluster(kmeans(cosinematScaled,4),cosinematScaled,
+             main = "K - means with 4 clusters",repel = T,labelsize = 10, ellipse.type = "norm") + theme_bw()
+
+kmp3 <- fviz_cluster(kmeans(cosinematScaled,5),cosinematScaled,
+             main = "K - means with 5 clusters",repel = T,labelsize = 10, ellipse.type = "norm") + theme_bw()
+gridExtra::grid.arrange(kmp, kmp2,ncol = 2)
+kmClusters$cluster
+
+```
+
+# Latent Dirchlet Allocation
+
+```{r}
+library(topicmodels)
+#termfreqwithoutStopWords2 <- termfreqwithoutStopWords
+termfreqwithoutStopWords2 <- termfreqStemmed
+colnames(termfreqwithoutStopWords2) <- c('document','term','count')
+termfreqwithoutStopWords2 %<>% cast_dtm(document,term,count)
+
+topicMdl <- LDA(termfreqwithoutStopWords2,k = 5)
+topicMdl_4 <- LDA(termfreqwithoutStopWords2,k = 4)
+topicMdl_3 <- LDA(termfreqwithoutStopWords2,k = 3)
+topicMdl_2 <- LDA(termfreqwithoutStopWords2,k = 2)
+news_topics <-  tidy(topicMdl,matrix = "beta")
+
+news_topics_terms <- news_topics %>%
+  group_by(topic) %>%
+  top_n(10, beta) %>%
+  ungroup() %>%
+  arrange(topic, -beta)
+
+topic_labels <- c("Recession/Economy|jobs","Automation","marketSoft|Contracts","econ/jobsRebound|AMZN_Distruption","Apps Carrier-Shipper Connection")
+names(topic_labels) <- as.character(1:5)
+news_topics_terms %>%
+  # mutate(topic = ifelse(topic == 1,"Tech for visibility",
+  #                     ifelse(topic == 2, "Solutions",
+  #                     ifelse(topic == 3, "ecommerce",
+  #                            "economy")))) %>% 
+  
+  mutate(term = reorder(term, beta)) %>%
+  ggplot(aes(reorder_within(term,beta,topic,sep=".") ,beta, fill = factor(topic))) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~ topic, scales = "free", labeller = labeller(topic = topic_labels )) + xlab("terms") +
+  coord_flip() + theme_bw()
+
+
+
+```
+
+## Topics to Documents
+
+```{r}
+lda_gamma <- tidy(topicMdl, matrix = 'gamma')
+ggplot(lda_gamma, aes(gamma, fill = as.factor(topic))) +
+  geom_histogram(show.legend = FALSE) +
+  facet_wrap(~ topic, ncol = 4) +
+  #scale_y_log10() +
+  labs(title = "Distribution of probability for each topic",
+       y = "Number of documents", x = expression(gamma))
+
+lda_gamma %>% 
+  filter(gamma > 0.8) %>% View()
+
+lda_gamma %>% 
+  #filter(gamma > 0.9) %>% 
+  mutate(topic = as.factor(topic)) %>% 
+  mutate(topic = case_when(
+    topic == 1 ~ "Recession/Economy|jobs",
+    topic == 2 ~ "Automation",
+    topic == 3 ~ "marketSoft|Contracts",
+    topic == 4 ~ "econ/jobsRebound|AMZN_Distruption",
+    topic == 5 ~ "Apps Carrier-Shipper Connection"
+  )) %>% 
+  ggplot(aes(x=as.numeric(document),y=gamma)) + geom_col(width = 1,fill = "blue") + facet_wrap(~topic) + coord_flip() + xlab("document") + theme_bw()
+
+
+lda_gamma %>% 
+  #filter(gamma > 0.9) %>% 
+  #mutate(topic = as.factor(topic)) %>% 
+  ggplot(aes(x=as.numeric(document),y=gamma)) + geom_col(width = 1,fill = "blue") + facet_wrap(~topic) + coord_flip() + xlab("document") + theme_bw()
+```
+
+## Word2Vec
+
+```{r}
+library(rword2vec)
+# write blobtext into file
+write_file(blobText,"bt1.txt")
+i <- seq(from = 2, to = 20)
+i <- i[-6]
+for (j in i){
+  write_file(eval(parse(text = paste0("blobText",j))),"bt1.txt",append = T)
+}
+```
+
+
+```{r}
+# remove stop words
+library(tm)
+corpus <- read_file('bt1.txt')
+stopwords_regex = paste(stopwords('en'), collapse = '\\b|\\b')
+stopwords_regex = paste0('\\b', stopwords_regex, '\\b')
+documents = stringr::str_replace_all(corpus, stopwords_regex, '')
+documents = stringr::str_replace_all(documents,"[^[:alnum:]]", " ")
+
+write_file(documents,"bt2.txt")
+model=word2vec(train_file = "bt2.txt",output_file = "vec.bin",binary=1,window = 10,min_count = 1)
+
+dist=distance(file_name = "vec.bin",search_word = "economy",num = 10)
+
+dist
+
+word_analogy("vec.bin","spot market technology carriers",num = 10)
+```
+
+```{r}
+
+### use this new text file to give word vectors
+#model=word2vec(train_file = "vec.txt",output_file = "vec2.txt",binary=0)
+```
+
+```{r}
+bin_to_txt("vec.bin","vector.txt")
+# data=as.data.frame(read.table("vector.txt"))
+data <- read_delim('vector.txt',col_names = F,delim = " ",skip = 1)
+dim(data)
+fviz_nbclust(data[complete.cases(data),-1],kmeans, method = "silhouette") -> tst
+plot(tst)
+w3vplt <- fviz_cluster(w2vclust,data[complete.cases(data),-1],  geom = "point",
+ellipse= T, show.clust.cent = F,
+palette = "jco", ggtheme = theme_classic(),
+main = "")
+w3vplt
+
+```
+
+
+```{r, warning=F, message=F}
+getwordCloud <- function(blobText,filename){
+  library(tm)
+  words <- Corpus(VectorSource(blobText))
+  
+  # change case
+  words <- tm_map(words,tolower)
+  
+  # remove numbers
+  words <- tm_map(words,removeNumbers)
+  
+  # the above did not remove the quotes
+  # remove crazy chars
+  toSpace <- content_transformer(function(x, pattern) gsub(pattern = pattern,replacement = " ",x=x))
+  words <- tm_map(words,toSpace, "\\r")
+  words <- tm_map(words,toSpace, "\\n")
+  words <- tm_map(words,toSpace, '”')
+  words <- tm_map(words,toSpace,"“")
+  words <- tm_map(words,toSpace,"’s")
+  
+  # remove whitespaces
+  
+  words <- tm_map(words,stripWhitespace)
+  
+  # remove stop words
+  
+  words <- tm_map(words,removeWords,stopwords("english"))
+  
+  browser()
+  # remove punctuation
+  words <- tm_map(words,removePunctuation)
+  
+  # lemmatize words
+  
+  #words <- textstem::lemmatize_words(words)
+  
+  tdm  <- TermDocumentMatrix(words)
+  m  <- as.matrix(tdm)
+  # sort(termFreq(words[1][1]$content),decreasing = T)
+  
+  v <- sort(rowSums(m), decreasing = T)
+  
+  df <- data.frame(word = names(v), frequency = v)
+  
+  library(RColorBrewer)
+  wordcloud::wordcloud(df$word, df$frequency, min.freq = 2, max.words = 500,
+                       random.order = FALSE,rot.per = 0.35, colors = brewer.pal(8,"Dark2"))
+  
+  write.csv(x = df,file = filename,row.names = F)
+  
+}
+
+getwordCloud(corpus,"wordcloud.csv")
+
+```
+
+## Ontology 
+
+```{r}
+# Select DSIs for concept definition
+
+## There are clearly 2 concepts or may be 3.
+
+###  1. Technology / distruption
+###  2. Economy / Jobs
+###  3. Relevancy of contracts (But htat might go to Tech... Ontology can help)
+
+### Selecting documents 1,12,13,14,16,17,18,19,20 for Tech and the rest for Economy / jobs
+
+# Select terms for concept definition
+
+tfidf2 %>% 
+  mutate(words = factor(words,levels = rev(unique(words)))) %>% 
+  filter(document %in% c(1,12,13,14,15,16,17,18,19,20) )%>% 
+  group_by(document) %>% 
+  top_n(15) %>% 
+  ungroup() %>% 
+  ggplot(aes(reorder_within(words,tf_idf,document,sep = "."), tf_idf, fill = document)) +
+  geom_col(show.legend = FALSE) + geom_hline(aes(yintercept = 0.025), col = "red", lty = 2) +
+  labs(x = NULL, y = "tf-idf") +
+  facet_wrap_paginate(~document, ncol = 3,nrow = 3 ,scales = "free",page = 1) +
+  coord_flip() + theme_bw()
+
+```
+```{r}
+# Create a database with ontology layer
+ontology_layer <- readxl::read_xlsx("ontology.xlsx")
+# convert everything into lowercase
+ontology_layer %<>% 
+  mutate_each(tolower)
+
+termfreqwithoutStopWords %>% 
+  mutate(test = str_detect(words,ontology_layer$Layer4)) %>% 
+  select(test) %>% table()
+```
+
+## Sentiment Analysis
+
+```{r}
+library(SentimentAnalysis)
+
+# The tussle between technology and jobs
+
+news_topics_terms_1 <- news_topics %>%
+  group_by(topic) %>%
+  #top_n(10, beta) %>%
+  ungroup() %>%
+  arrange(topic, -beta)
+sentimentOfTopics <- function(topicnum){
+  analyzeSentiment(news_topics_terms_1 %>% filter(beta > 0.001,topic==topicnum) %>% select(term) %>% .$term) -> senti
+  table(convertToBinaryResponse(senti$SentimentGI))
+}
+
+1:5 %>% purrr::map(sentimentOfTopics) %>% purrr::reduce(rbind) -> rst
+rownames(rst) <- topic_labels
+
+rst
+
+sentimentBlobText <- function(blobtext){
+  text <- paste0("convertToBinaryResponse(analyzeSentiment(",blobtext,"))")
+  eval(parse(text = text))
+}
+
+docsenti <- c("blobText",paste0("blobText",c(1:20)[c(-1,-7)])) %>% 
+    purrr::map_df(sentimentBlobText) %>% mutate(BlobText = c("blobText",paste0("blobText",c(1:20)[c(-1,-7)])) )
+
+rownames(docsenti) <- c("blobText",paste0("blobText",c(1:20)[c(-1,-7)]))
+
+bylineSenti4doc <- function(blobtext){
+  library(stringr)
+  library(purrr)
+  str_split(blobtext,"\n") %>% 
+    map_df(function(x) convertToBinaryResponse(analyzeSentiment(x))) -> senti
+  table(senti$SentimentLM)
+}
+
+c("blobText",paste0("blobText",c(1:20)[c(-1,-7)])) %>% 
+  purrr::map(function(x) eval(parse(text=paste0("bylineSenti4doc(",x,")"))))
+
+docsenti %>% mutate(document = rownames(.)) %>% select(document,SentimentLM) %>% filter(SentimentLM == "negative") %>% mutate(document = c(1,2,3,5,6,8,10,11,12,13,15,18))
+```
+
+```{r}
+# Sentiment analysis Text Mining With R Julia Silge
+corpus %>% unnest_tokens(words,text,token = "words") ->tst
+
+
+tst %<>% 
+  inner_join(get_sentiments("bing")) %>% 
+  count(document,index=linenumber %/% 5, sentiment) %>% 
+  spread(sentiment, n, fill = 0) %>%
+  mutate(sentiment = positive - negative) %>% 
+  left_join(lda_gamma) %>% 
+  mutate(doc_ind = as.numeric(document)+index/10)
+
+tst %>%
+  ggplot(aes(x=doc_ind,y=sentiment)) + geom_col() + facet_wrap(~topic)
+
+tst %>%
+  ggplot(aes(x=index,y=sentiment)) + geom_col() + facet_wrap(~document,scales = "free")
+
+```
+
+```{r}
+corpus %>% unnest_tokens(sentence,text,token = "sentences") %>% group_by(document) %>% mutate(linenumber = row_number()) -> tst
+tst %<>% unnest_tokens(word,sentence,token = "words")
+
+tst %<>% 
+  inner_join(get_sentiments("bing")) %>% 
+  count(document,index=linenumber %/% 1, sentiment) %>% 
+  spread(sentiment, n, fill = 0) %>%
+  mutate(sentiment = positive - negative) %>% 
+  left_join(lda_gamma) %>% 
+  mutate(doc_ind = as.numeric(document)+index/100)
+
+tst %>%
+  ggplot(aes(x=doc_ind,y=sentiment)) + geom_col() + facet_wrap(~topic)
+
+tst %>%
+  ggplot(aes(x=index,y=sentiment,fill = ifelse(sentiment < 0, "green", "red"))) + geom_col(width = 1) + facet_wrap(~document,scales = "free") + theme(legend.position = "none")
+```
+

@@ -1,0 +1,319 @@
+Term,Manual,,Termine,,,,FiveFilters,,,
+,D1,D2.count,D1,,D2,,D1,,D2,
+,d1.count,d2.count,D1Rank,D1Score,D2Rank,D2Score,D1Occurrence,D1WordCount,D2Occurrence,D2WordCount
+e-commerce,1,0,NA,NA,NA,NA,NA,NA,NA,NA
+delivery schedules ,1,0,NA,NA,NA,NA,NA,NA,NA,NA
+visibility ,2,0,NA,NA,NA,NA,NA,NA,NA,NA
+supply chain,2,0,2,2,NA,NA,1,2,NA,NA
+dynamic,4,0,NA,NA,NA,NA,NA,NA,NA,NA
+technology-driven interactions ,1,0,NA,NA,NA,NA,NA,NA,NA,NA
+shippers,5,2,NA,NA,NA,NA,5,1,2,1
+carriers,5,2,NA,NA,NA,NA,2,1,1,1
+brokers,4,1,NA,NA,NA,NA,4,1,1,1
+contract ,10,0,NA,NA,NA,NA,NA,NA,NA,NA
+changing ,2,0,NA,NA,NA,NA,NA,NA,NA,NA
+technology,4,0,NA,NA,NA,NA,3,1,NA,NA
+automating freight-matching,1,0,NA,NA,NA,NA,NA,NA,NA,NA
+contract bidding process,1,0,10,1.584962,NA,NA,1,3,NA,NA
+rfp,3,0,NA,NA,NA,NA,NA,NA,NA,NA
+bid cycles ,1,0,NA,NA,NA,NA,NA,NA,NA,NA
+seasonal  bids,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+spot vs. contract,2,0,NA,NA,NA,NA,NA,NA,NA,NA
+uber freight ,2,0,NA,NA,NA,NA,NA,NA,NA,NA
+pricing rates ,1,0,NA,NA,NA,NA,NA,NA,NA,NA
+contract rates ,1,0,NA,NA,NA,NA,NA,NA,NA,NA
+value of contracts,1,0,NA,NA,NA,NA,NA,NA,NA,NA
+market,3,2,NA,NA,NA,NA,1,1,NA,NA
+changing ,2,0,NA,NA,NA,NA,NA,NA,NA,NA
+data,2,2,NA,NA,NA,NA,2,1,2,1
+tension,2,0,NA,NA,NA,NA,1,1,NA,NA
+locking in,1,0,NA,NA,NA,NA,NA,NA,NA,NA
+experimentation,1,0,NA,NA,NA,NA,1,1,NA,NA
+carrier selection,1,0,NA,NA,NA,NA,NA,NA,NA,NA
+algorithms,1,0,NA,NA,NA,NA,1,1,NA,NA
+downturn,0,1,NA,NA,NA,NA,NA,NA,1,1
+forecasts,0,1,NA,NA,NA,NA,NA,NA,1,1
+national transportation institute,0,1,NA,NA,6,1.584962,NA,NA,NA,NA
+driver compensation,0,1,NA,NA,15,1,NA,NA,1,2
+pay ,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+decreased,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+signing bonuses ,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+softens demands,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+volumes ,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+increase,1,3,NA,NA,NA,NA,NA,NA,2,1
+flatbed,0,4,NA,NA,NA,NA,NA,NA,1,1
+signs of weakening,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+easing in manufacturing,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+expansion,0,1,NA,NA,NA,NA,NA,NA,1,1
+retrenchment,0,1,NA,NA,NA,NA,NA,NA,1,1
+spot market rates,0,1,NA,NA,NA,NA,NA,NA,1,3
+pessimistic ,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+construction ,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+economic indicator,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+owner-operator ,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+freight rates,0,1,NA,NA,NA,NA,NA,NA,1,2
+miles ,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+revenue,0,1,NA,NA,NA,NA,NA,NA,1,1
+income,0,2,NA,NA,NA,NA,NA,NA,2,1
+correction ,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+cass ,0,3,NA,NA,NA,NA,NA,NA,NA,NA
+recession ,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+slowdown,0,1,NA,NA,NA,NA,NA,NA,1,1
+stability ,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+economy,0,2,NA,NA,NA,NA,NA,NA,2,1
+uber freight,NA,NA,1,3,NA,NA,NA,NA,NA,NA
+digital freight-matching,NA,NA,2,2,NA,NA,NA,NA,NA,NA
+robust carrier selection criterion,NA,NA,2,2,NA,NA,NA,NA,NA,NA
+eka omni-tms cloud-based system,NA,NA,2,2,NA,NA,NA,NA,NA,NA
+contract paradigm.,NA,NA,2,2,NA,NA,NA,NA,NA,NA
+avery vise,NA,NA,2,2,NA,NA,NA,NA,NA,NA
+annual bid award process,NA,NA,2,2,NA,NA,NA,NA,NA,NA
+traditional contract bid process,NA,NA,2,2,NA,NA,NA,NA,NA,NA
+dynamic price environment,NA,NA,10,1.584962,NA,NA,NA,NA,NA,NA
+variable cost structure,NA,NA,10,1.584962,NA,NA,NA,NA,NA,NA
+contract freight kind,NA,NA,10,1.584962,NA,NA,1,3,NA,NA
+year-long bid cycle,NA,NA,10,1.584962,NA,NA,NA,NA,NA,NA
+july cover story,NA,NA,10,1.584962,NA,NA,NA,NA,NA,NA
+ftr kate kaufman,NA,NA,10,1.584962,NA,NA,NA,NA,NA,NA
+stringent delivery schedule,NA,NA,10,1.584962,NA,NA,NA,NA,NA,NA
+small carrier,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+ftr associate,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+continuous review,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+business tension,NA,NA,18,1,NA,NA,1,2,NA,NA
+seasonal bid,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+back-end billing,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+claude pumilia,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+pricing rate,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+robert brothers,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+contract diminishes.,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+informed choice,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+contract rate,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+account op,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+trucking research,NA,NA,18,1,NA,NA,1,2,NA,NA
+product development,NA,NA,18,1,NA,NA,1,2,NA,NA
+eka solution,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+predictive rate,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+big part,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+business relationships.,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+technology-driven interaction,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+drawn-out rfp,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+hot trend,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+long-term contract,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+financial function,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+contract freight,NA,NA,18,1,NA,NA,1,2,NA,NA
+mcleod software,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+historic rate,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+spot market,NA,NA,18,1,NA,NA,1,2,NA,NA
+j.j singh,NA,NA,18,1,NA,NA,NA,NA,NA,NA
+financial service provider atbs,NA,NA,NA,NA,1,2,NA,NA,NA,NA
+brokerage tucker company worldwide,NA,NA,NA,NA,1,2,NA,NA,NA,NA
+net income,NA,NA,NA,NA,1,2,NA,NA,NA,NA
+cass freight shipments index,NA,NA,NA,NA,1,2,NA,NA,NA,NA
+looming downturn most forecast,NA,NA,NA,NA,1,2,NA,NA,NA,NA
+trucking consultant ftr,NA,NA,NA,NA,6,1.584962,NA,NA,NA,NA
+heated freight market,NA,NA,NA,NA,6,1.584962,NA,NA,NA,NA
+cass information systems,NA,NA,NA,NA,6,1.584962,NA,NA,NA,NA
+average signing bonus,NA,NA,NA,NA,6,1.584962,NA,NA,NA,NA
+spot market rate,NA,NA,NA,NA,6,1.584962,NA,NA,NA,NA
+owner-operator flatbed segment,NA,NA,NA,NA,6,1.584962,NA,NA,1,3
+seat jeff tucker,NA,NA,NA,NA,6,1.584962,NA,NA,NA,NA
+economic indicator datum,NA,NA,NA,NA,6,1.584962,NA,NA,NA,NA
+but-on-the-other-hand talk,NA,NA,NA,NA,15,1,NA,NA,NA,NA
+operator thinking,NA,NA,NA,NA,15,1,NA,NA,NA,NA
+direct tie,NA,NA,NA,NA,15,1,NA,NA,NA,NA
+pronounced slowdown,NA,NA,NA,NA,15,1,NA,NA,NA,NA
+pay move,NA,NA,NA,NA,15,1,NA,NA,NA,NA
+business economics,NA,NA,NA,NA,15,1,NA,NA,NA,NA
+economic contraction.,NA,NA,NA,NA,15,1,NA,NA,NA,NA
+fortune magazine,NA,NA,NA,NA,15,1,NA,NA,NA,NA
+trucking company,NA,NA,NA,NA,15,1,NA,NA,NA,NA
+cass suspect,NA,NA,NA,NA,15,1,NA,NA,NA,NA
+freight rate,NA,NA,NA,NA,15,1,NA,NA,NA,NA
+escrow saving,NA,NA,NA,NA,15,1,NA,NA,NA,NA
+fever pitch,NA,NA,NA,NA,15,1,NA,NA,1,2
+presidential inauguration.,NA,NA,NA,NA,15,1,NA,NA,NA,NA
+bottom line,NA,NA,NA,NA,15,1,NA,NA,1,2
+bad news,NA,NA,NA,NA,15,1,NA,NA,NA,NA
+professional forecaster,NA,NA,NA,NA,15,1,NA,NA,NA,NA
+industrial activity,NA,NA,NA,NA,15,1,NA,NA,NA,NA
+shipping trend,NA,NA,NA,NA,15,1,NA,NA,NA,NA
+national association,NA,NA,NA,NA,15,1,NA,NA,NA,NA
+consultant ftr,NA,NA,NA,NA,15,1,NA,NA,NA,NA
+flatbed segment,NA,NA,NA,NA,15,1,NA,NA,1,2
+contract bid process,NA,NA,NA,NA,NA,NA,1,3,NA,NA
+carrier selection criteria,NA,NA,NA,NA,NA,NA,1,3,NA,NA
+bid award process,NA,NA,NA,NA,NA,NA,1,3,NA,NA
+contract,NA,NA,NA,NA,NA,NA,5,1,NA,NA
+Uber Freight,NA,NA,NA,NA,NA,NA,3,2,NA,NA
+FTR Kate Kaufman,NA,NA,NA,NA,NA,NA,1,3,NA,NA
+way carriers work,NA,NA,NA,NA,NA,NA,1,3,NA,NA
+need,NA,NA,NA,NA,NA,NA,4,1,NA,NA
+rates,NA,NA,NA,NA,NA,NA,4,1,NA,NA
+contracts,NA,NA,NA,NA,NA,NA,4,1,NA,NA
+Avery Vise,NA,NA,NA,NA,NA,NA,2,2,NA,NA
+contract paradigm,NA,NA,NA,NA,NA,NA,2,2,NA,NA
+freight-matching,NA,NA,NA,NA,NA,NA,4,1,NA,NA
+spot vs,NA,NA,NA,NA,NA,NA,2,2,NA,NA
+way freight,NA,NA,NA,NA,NA,NA,1,2,NA,NA
+supply chains,NA,NA,NA,NA,NA,NA,1,2,NA,NA
+price environment,NA,NA,NA,NA,NA,NA,1,2,NA,NA
+account ops,NA,NA,NA,NA,NA,NA,1,2,NA,NA
+technology-driven interactions,NA,NA,NA,NA,NA,NA,1,2,NA,NA
+Robert Brothers,NA,NA,NA,NA,NA,NA,1,2,NA,NA
+pricing rates,NA,NA,NA,NA,NA,NA,1,2,NA,NA
+contract rates,NA,NA,NA,NA,NA,NA,1,2,NA,NA
+people,NA,NA,NA,NA,NA,NA,3,1,NA,NA
+way,NA,NA,NA,NA,NA,NA,3,1,NA,NA
+McLeod Software,NA,NA,NA,NA,NA,NA,1,2,NA,NA
+cost structure,NA,NA,NA,NA,NA,NA,1,2,NA,NA
+FTR Associates,NA,NA,NA,NA,NA,NA,1,2,NA,NA
+months,NA,NA,NA,NA,NA,NA,3,1,NA,NA
+Claude Pumilia,NA,NA,NA,NA,NA,NA,1,2,NA,NA
+delivery schedules,NA,NA,NA,NA,NA,NA,1,2,NA,NA
+business relationships,NA,NA,NA,NA,NA,NA,1,2,NA,NA
+way carriers,NA,NA,NA,NA,NA,NA,1,2,NA,NA
+track loads,NA,NA,NA,NA,NA,NA,1,2,NA,NA
+bid cycles,NA,NA,NA,NA,NA,NA,1,2,NA,NA
+Small Carriers,NA,NA,NA,NA,NA,NA,1,2,NA,NA
+EKA Solutions,NA,NA,NA,NA,NA,NA,1,2,NA,NA
+move,NA,NA,NA,NA,NA,NA,2,1,NA,NA
+RFP,NA,NA,NA,NA,NA,NA,2,1,NA,NA
+visibility,NA,NA,NA,NA,NA,NA,2,1,NA,NA
+CEO,NA,NA,NA,NA,NA,NA,2,1,1,1
+changes,NA,NA,NA,NA,NA,NA,2,1,NA,NA
+ability,NA,NA,NA,NA,NA,NA,2,1,NA,NA
+DAT,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+president,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+spot,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+reasons,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+kind,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+years,NA,NA,NA,NA,NA,NA,1,1,1,1
+digitization,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+Related,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+benefits,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+VP,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+marketplace,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+choice,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+oversight,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+access,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+fleets,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+Pumilia,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+business,NA,NA,NA,NA,NA,NA,1,1,1,1
+plan,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+clarity,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+creativity,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+RFPs,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+review,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+automation,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+manager,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+bids,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+year,NA,NA,NA,NA,NA,NA,1,1,5,1
+price,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+freight,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+pricing,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+process,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+trend,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+levels,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+part,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+story,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+July,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+research,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+things,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+director,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+entrants,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+functions,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+companies,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+billing,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+chairman,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+founder,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+Singh,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+capacity,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+guarantee,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+time,NA,NA,NA,NA,NA,NA,1,1,2,1
+industry,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+void,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+E-commerce,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+volume,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+Something,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+manpower,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+teams,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+value,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+Tough,NA,NA,NA,NA,NA,NA,1,1,NA,NA
+services provider ATBS,NA,NA,NA,NA,NA,NA,NA,NA,1,3
+Cass Information Systems,NA,NA,NA,NA,NA,NA,NA,NA,1,3
+trucking consultant FTR,NA,NA,NA,NA,NA,NA,NA,NA,1,3
+carriers offering bonuses,NA,NA,NA,NA,NA,NA,NA,NA,1,3
+National Transportation Institute,NA,NA,NA,NA,NA,NA,NA,NA,1,3
+Trucking consultant FTR,NA,NA,NA,NA,NA,NA,NA,NA,1,3
+trucking companies,NA,NA,NA,NA,NA,NA,NA,NA,1,2
+freight market,NA,NA,NA,NA,NA,NA,NA,NA,1,2
+Jeff Tucker,NA,NA,NA,NA,NA,NA,NA,NA,1,2
+Fortune magazine,NA,NA,NA,NA,NA,NA,NA,NA,1,2
+June report,NA,NA,NA,NA,NA,NA,NA,NA,1,2
+Fortune reports,NA,NA,NA,NA,NA,NA,NA,NA,1,2
+Business Economics,NA,NA,NA,NA,NA,NA,NA,NA,1,2
+National Association,NA,NA,NA,NA,NA,NA,NA,NA,1,2
+quarter vs,NA,NA,NA,NA,NA,NA,NA,NA,1,2
+escrow savings,NA,NA,NA,NA,NA,NA,NA,NA,1,2
+recession,NA,NA,NA,NA,NA,NA,NA,NA,2,1
+number,NA,NA,NA,NA,NA,NA,NA,NA,2,1
+demand,NA,NA,NA,NA,NA,NA,NA,NA,2,1
+notes,NA,NA,NA,NA,NA,NA,NA,NA,2,1
+forecasters,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+survey,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+Cass,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+something,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+majority,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+correction,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+owner-operators,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+inauguration,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+trust,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+room,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+Tucker,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+war,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+harm,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+step,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+opportunities,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+risks,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+operator,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+broker,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+relationships,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+terms,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+stability,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+check,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+authority,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+dollars,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+thousands,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+miles,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+bonuses,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+signs,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+volumes,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+drivers,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+seats,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+increases,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+activity,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+quarter,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+moves,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+acceleration,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+example,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+but-on-the-other-hand,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+news,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+manufacturing,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+Discerning,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+declines,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+rest,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+flatbedders,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+mile,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+indicator,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+construction,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+tie,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+trucking,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+month,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+stats,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+conclusion,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+pause,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+contraction,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+trends,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+monitors,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+May,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+days,NA,NA,NA,NA,NA,NA,NA,NA,1,1

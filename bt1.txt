@@ -1,0 +1,942 @@
+
+                
+                        Photo: WIlliam S. Farrow
+The way freight is booked and delivered is changing rapidly. E-commerce is driving more stringent delivery schedules and more visibility into the supply chain. Some people believe that the move toward more dynamic, technology-driven interactions between shippers, carriers, and brokers could mean changes in the traditional way carriers work with shippers on contract freight.
+
+This was one of the things that came out of my research for the upcoming July cover story on how technology is changing the way carriers, shippers, and brokers connect.
+
+A big part of that is various levels of automating freight-matching, including much more visibility into the process, and even automation in pricing.
+
+Some think it could mean changes in the long, drawn-out RFP and contract bidding process.
+
+“Are we going to have year-long bid cycles like we did in the past, where you commit to freight and price for a year, or are we going to go into more seasonal bids, every three or six months, and have a very variable cost structure?” mused Robert Brothers, manager of product development for McLeod Software.
+
+
+“It's essentially moot to think of digital freight-matching in the old spot vs. contract paradigm.” – Avery Vise, FTR
+
+
+Kate Kaufman, director of account ops at Uber Freight, told me that looking at contracts is a hot trend.
+
+“As we see more entrants like Uber Freight into this industry, based on our pricing rates that are comparable to contract rates without the contract, I think it’s causing people to rethink the value of contracts,” she said. “An RFP can take months, and you have teams managing that, and the manpower that goes into it is substantial. Something like 50% of the volume of RFPs can be invalid and void by the time you’re six months into the contract.”
+
+Supply chains are becoming more and more dynamic, she said, so the ability to rely on a contract diminishes. “And what is this going to mean if companies like Uber Freight come in and say we can give you rates and guarantee that capacity; do you have need for a contract anymore?”
+
+The annual bid award process is not serving this more dynamic price environment well, said J.J. Singh, founder, chairman and CEO of EKA Solutions, which is rolling out the EKA Omni-TMS cloud-based system to allow brokers, carriers, and shippers to easily assign and track loads, including back-end billing and financial functions.
+
+“I don’t think [the traditional contract bid process] is outdated, but it needs continuous review and oversight. If you find the market is changing, you have to move from contracted to spot. No longer is contract freight kind of the dominant [method]. You need to be able to respond quickly, and technology allows us to do that.”
+
+Claude Pumilia, president and CEO of DAT, said he can see how increased technology could help the spot market be used in an increasingly effective way, “but there are some significant other reasons why you want long-term contracts. There’s a tension there – the ability to be dynamic and have more clarity on the key data you need to decide what the rates should be, and the business tension of being able to plan your business. Locking in a contract for nine or 12 months is still a good way to do that.”
+
+Pumilia predicts we will see more experimentation and creativity in how contracts are handled, now that shippers, fleets and brokers are gaining more access to the kind of data the need to be able to make a more informed choice, “whether it’s historic rates, or I think you going to see more predictive rates in the marketplace, which will lead to some people being more creative in these business relationships.”
+
+Avery Vise, VP of trucking research for FTR Associates, summed it up this way: “It's essentially moot to think of digital freight-matching in the old spot vs. contract paradigm.” One of the benefits of digitization of freight-matching is that you can build robust carrier selection criteria into the algorithms, he said. “Admittedly, this would be evolutionary. It won't happen in two or three years, but that’s where we are headed.”
+
+
+Related: Why Small Carriers Have It So Tough
+
+
+                
+            Not long after the heated freight market of 2018 cooled off, there came talk of a looming downturn. Most forecasts have balanced bad news with but-on-the-other-hand talk.
+For example, the National Transportation Institute, which tracks driver compensation, recently reported “the acceleration of pay moves has decreased” in 2019’s first quarter, though the increases were still deemed “substantial.” And though average signing bonuses are dropping, “the number of carriers offering bonuses continues to remain fairly high.”
+        
+            
+            googletag.cmd.push(function() { googletag.display('300x250-MOBILE'); });
+            
+So the fever pitch has subsided, but carriers are still trying hard to fill seats. Jeff Tucker, CEO of brokerage Tucker Company Worldwide, notes “there are more drivers and more trucking companies than ever before, plus the number of shippers using brokers continues to increase. That softens demand, even as volumes hold steady or gradually increase.”
+“The flatbed segment is already showing signs of weakening due to easing in manufacturing and industrial activity,” notes a June report from trucking consultant FTR.
+Discerning softening demand in other stats through May, Cass Information Systems, which monitors shipping trends, is more ominous: “More and more data is indicating that this is the beginning of an economic contraction.” That’s as opposed to “merely a pause” in expansion, or a “retrenchment.” The conclusion is based partly on the Cass Freight Shipments Index, which has been negative year-over-year for the sixth straight month. As for spot market rates, Trucking consultant FTR is also pessimistic about the rest of the year.
+It’s often said that trucking – particularly flatbed, with its direct tie to construction – is a key economic indicator. Data from financial services provider ATBS reveals how the owner-operator flatbed segment did in this year’s first quarter vs. a year ago.
+Freight rates rose enough to push their net income from 77 cents per mile in early 2018 to 79 cpm this year. Yet flatbedders saw declines in miles and dollars (revenue and net income). It remains to be seen if this is a correction from a strong 2018 or, as Cass suspects, something worse.
+The economy at large is projected to grow through 2019 at 2.6%, then slow to 2.1% in 2020. That’s according to the National Association of Business Economics’ survey of 53 professional forecasters as reported by Fortune magazine. However, Fortune reports “a majority think a recession is possible before the next presidential inauguration.”
+Bottom line: At best, business as usual for an undetermined time. At worst, a more pronounced slowdown this year or the next.
+If you’re among the thousands of owner-operators who secured operating authority in recent years, check your stability in terms of dedicated shippers and strong relationships with at least one broker you trust. If you’re a leased operator thinking of going independent, don’t wait too long and take on new risks just as opportunities start to dry up. But do take the time to build escrow savings and to complete the other necessary prep for such a major step.
+“If we don’t do any harm to our economy, don’t enter a war and don’t somehow slip into recession,” says Tucker, “I think there’s still room to grow and good days still ahead.”
+AboutDMCATerms   Tech2.Org Largest Nonprofit Digital Media. We work to Give a Voice to the powerless, to help Public & to Illuminate their lives.HOMEU.S.EntertainmentSportsWorldBusinessTechnologyHealthScience Home / World / Truckers’ fears have hit recession level: Morgan StanleyTruckers’ fears have hit recession level: Morgan Stanley World Share Facebook Twitter Google + LinkedIn Pinterest (adsbygoogle = window.adsbygoogle || []).push({}); While the economy has mostly published numbers that indicate health, truckers like Christopher Powell have seen how their salaries have been affected. Powell's gross earnings have accumulated from $ 6,000 to $ 7,000 per week to $ 3,500 to $ 5,000, and that's before he has to pay for repairs, maintenance and other business expenses. "I do not know how long I can stay in business if things do not improve," Powell told Business Insider. That negativity was reflected in a new Morgan Stanley freight note addressed to investors. According to Morgan Stanley's regular freight survey, rate expectations are sinking into negative ones, "well below the 2016 levels." That was the last time the cargo sank into a recession. (adsbygoogle = window.adsbygoogle || []).push({});Read more: Truckers warn about a & # 39; blood bath & # 39; when trucking companies go bankrupt and cut profit expectations Transportation rates have declined year after year for six consecutive months. Loads in the spot market, in which retailers and manufacturers buy the transport capacity as they need it, instead of through a contract, fell by 50.3% in June from year to year. But the capacity, that is, the number of trucks available to move loads, increased by 29.9% in June from year to year. A particularly profitable year for truck drivers was 2018, and encouraged many companies to buy more trucks and hire more drivers. The companies ordered so many new trucks last year that, by January, there was still an eight-month delay in ordering new trucks. Now that the business has shrunk again, companies are grappling with excess capacity. Industry experts told Morgan Stanley in the survey that they expect some of this capacity to disappear, which means more companies go bankrupt or reduce business. "Even brokers and shippers are beginning to highlight the potential for capacity to exit in the coming months," the note said. (adsbygoogle = window.adsbygoogle || []).push({}); Unfortunately, that's typical of trucks, a highly cyclical industry. "One of the problems we have had in the past, when things are hot, people will wait within a year that will be just as good," said Don Ake, vice president of the FTR cargo equipment research group. , previously told Business Insider. "We will build too many trucks, and then any setbacks in the economy cause this great downward cycle, and it's bad for everyone in the industry," Ake said. "Cycles are bad for the industry, but they can not be controlled, you can not tell people not to buy trucks and not build trucks."Do you work in trucks? Has your business been affected by the deceleration of the load? Send an email to the reporter at rpremack@businessinsider.com.    (adsbygoogle = window.adsbygoogle || []).push({});Source link  (adsbygoogle = window.adsbygoogle || []).push({}); Share Facebook Twitter Google + LinkedIn Pinterest {"@context":"http:\/\/schema.org","@type":"NewsArticle","dateCreated":"2019-07-07T15:06:10+00:00","datePublished":"2019-07-07T15:06:10+00:00","dateModified":"2019-07-07T15:06:10+00:00","headline":"Truckers&#8217; fears have hit recession level: Morgan Stanley","name":"Truckers&#8217; fears have hit recession level: Morgan Stanley","keywords":[],"url":"https:\/\/tech2.org\/truckers-fears-have-hit-recession-level-morgan-stanley\/","description":"While the economy has mostly published numbers that indicate health, truckers like Christopher Powell have seen how their salaries have been affected. Powell&#39;s gross earnings have accumulated from","copyrightYear":"2019","publisher":{"@id":"#Publisher","@type":"Organization","name":"Tech2.Org","logo":{"@type":"ImageObject","url":"https:\/\/tech2.org\/wp-content\/themes\/sahifa\/images\/logo@2x.png"}},"sourceOrganization":{"@id":"#Publisher"},"copyrightHolder":{"@id":"#Publisher"},"mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/tech2.org\/truckers-fears-have-hit-recession-level-morgan-stanley\/"},"author":{"@type":"Person","name":"admin","url":"https:\/\/tech2.org\/author\/admin\/"},"articleSection":"World","articleBody":"\r\n \r\n    While the economy has mostly published numbers that indicate health, truckers like Christopher Powell have seen how their salaries have been affected.     Powell&#39;s gross earnings have accumulated from $ 6,000 to $ 7,000 per week to $ 3,500 to $ 5,000, and that&#39;s before he has to pay for repairs, maintenance and other business expenses. &quot;I do not know how long I can stay in business if things do not improve,&quot; Powell told Business Insider.     That negativity was reflected in a new Morgan Stanley freight note addressed to investors. According to Morgan Stanley&#39;s regular freight survey, rate expectations are sinking into negative ones, &quot;well below the 2016 levels.&quot; That was the last time the cargo sank into a recession. Read more: Truckers warn about a &amp; # 39; blood bath &amp; # 39; when trucking companies go bankrupt and cut profit expectations    Transportation rates have declined year after year for six consecutive months. Loads in the spot market, in which retailers and manufacturers buy the transport capacity as they need it, instead of through a contract, fell by 50.3% in June from year to year.     But the capacity, that is, the number of trucks available to move loads, increased by 29.9% in June from year to year. A particularly profitable year for truck drivers was 2018, and encouraged many companies to buy more trucks and hire more drivers. The companies ordered so many new trucks last year that, by January, there was still an eight-month delay in ordering new trucks.     Now that the business has shrunk again, companies are grappling with excess capacity. Industry experts told Morgan Stanley in the survey that they expect some of this capacity to disappear, which means more companies go bankrupt or reduce business. &quot;Even brokers and shippers are beginning to highlight the potential for capacity to exit in the coming months,&quot; the note said.                                                                                                             Unfortunately, that&#39;s typical of trucks, a highly cyclical industry. &quot;One of the problems we have had in the past, when things are hot, people will wait within a year that will be just as good,&quot; said Don Ake, vice president of the FTR cargo equipment research group. , previously told Business Insider.     &quot;We will build too many trucks, and then any setbacks in the economy cause this great downward cycle, and it&#39;s bad for everyone in the industry,&quot; Ake said. &quot;Cycles are bad for the industry, but they can not be controlled, you can not tell people not to buy trucks and not build trucks.&quot; Do you work in trucks? Has your business been affected by the deceleration of the load? Send an email to the reporter at rpremack@businessinsider.com.\r\n\r\nSource link "}Related ArticlesHeathrow and Gatwick passengers hit with more delaysAn American Airlines flight attendant had to get five stitches after an emotional-support animal bit himCoca-Cola will sell an alcoholic drink nationwide in Japan after a successful test runGoogle Set to Pay $13 Million in Street View Class-Action SuitFord targets Tesla with its new electric-truck claimFind your new home on Amazon.com and you could get a $5,000 creditRecent Posts Aaron Rodgers' legacy is at stake this season – Max Kellerman | First take Heathrow and Gatwick passengers hit with more delays The SpaceX Starhopper makes its first free flight jump The American Airlines passenger breaks the laptop on his partner's head in a viral clip AWS gets a chatbot – TechCrunch Powered by https://tech2.org | Designed by Tech2.Org © Copyright 2019, All Rights Reserved
+
+      Transportation and logistics companies added jobs at a strong pace in June, in a rebound from weak hiring this spring and a sign of growing confidence in U.S. freight demand.
+
+
+
+
+      Couriers and messengers boosted payrolls by 6,500 jobs last month while trucking fleets added 4,300 jobs, the Labor Department said in a report Friday that included upward revisions for the past two months in trucking employment.
+
+
+
+
+      “Over the last month or so we think the outlook for trucking has firmed,” said Avery Vise, an analyst at transportation research group FTR. “It’s certainly not as robust as 2018, but that would have been virtually impossible.”
+
+
+
+
+      Overall, warehousing and transportation employers focused on freight and parcel business added 14,900 jobs on a seasonally adjusted basis from May to June, part of a strong national report that included 224,000 additional jobs last month.
+
+
+
+
+
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+          
+      Newsletter Sign-up
+    
+    
+      
+    
+
+      
+      
+       
+
+
+
+
+      The national report included upbeat signals for potential shipping growth in coming months, with goods-producing firms boosting payrolls by 37,000 jobs, including 17,000 additional jobs in a manufacturing sector closely tied to trucking demand. The hiring contrasted with recent signals of softening factory output—the Institute for Supply Management’s most recent Purchasing Managers’ Index reached its lowest point since October 2016—but measures of demand for trucking service have been improving.
+
+
+
+
+      “After a weak February and March, we’ve started to see since the beginning of April improvement not only in jobs numbers but in some spot-market metrics. June in the [trucking] spot market was a reasonably strong month. Rates are still well below long-term averages but they are following seasonal trends,” said Mr. Vise.
+
+
+
+
+      Trucking analysts say the industry faces tough comparisons to 2018, when demand was surging at a historic rate. DAT Solutions LLC’s index of available loads in the truckload spot market was down more than 50% in June from a year ago, but the measure improved 35.9% from May to June.
+
+
+
+
+      
+
+
+
+
+      Trucking companies remain reasonably confident in their near-term outlook and are going forward with plans to replace older trucks and in some cases expand their fleets, said Michael DiCecco, executive managing director of Huntington Bancshares Inc.’s asset finance business.
+
+
+
+
+      But some are cautious as U.S. trade tensions with China drag on, Mr. DiCecco said in an interview late last month. “They’re not necessarily sure outside of contract business where the winds will be in 60 or 90 days,” he said.
+
+
+
+
+      Warehousing and storage employers added 1,400 jobs in June, extending a slowdown in hiring growth in a sector that has surged in recent years on the growing shift of retail business from bricks-and-mortar stores to e-commerce sales.
+
+
+
+
+      Warehouse companies say they are facing more difficulty in finding workers and many are scaling up digital efforts to find and recruit workers in a tight job market.
+
+
+
+
+      Kenco Group, a third-party logistics company based in Chattanooga, Tenn., is testing a flexible labor service called HapiGig in Atlanta that provides trained workers to fill in when staffers are sick or taking vacation days. Many have full-time jobs elsewhere but are looking to pick up extra shifts, said Scott Mayfield,  Kenco’s chief administrative officer.
+
+
+
+
+      “We’re literally sharing labor with some of our competition, which is fine,” Mr. Mayfield said. “We’re not splitting the atom.”
+
+
+
+
+      The company is also targeting recruiting of veterans, disabled people and other groups, and Mr. Mayfield said they also are opening up to “people who have a criminal record. It’s an untapped labor market, they have a hard time getting jobs,” he said. “We’ve had good success with those employees.”
+
+
+
+
+       Write to Jennifer Smith at jennifer.smith@wsj.com and Paul Page at paul.page@wsj.com
+
+
+
+
+      
+
+
+
+  
+  Copyright ©2019 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8
+  
+  Owner-operators hoping to purchase a truck likely will now face new hurdles, as lenders in recent weeks have begun stiffening credit standards for equipment purchases, especially for one-truck operators, says Rob Misheloff, founder of equipment leasing and finance brokerage SmarterFinanceUSA.
+Lenders’ moves are the latest shift amidst a cooling truck market, with 2019 ushering in a freight slowdown and cheaper rates, especially on the owner-operator-heavy spot market. What’s more, some analysts predict that the Class 8 sales market is nearing a cliff, coming after record-setting order numbers in 2017 and 2018.
+        
+            
+            googletag.cmd.push(function() { googletag.display('300x250-MOBILE'); });
+            
+Misheloff works between buyers and lenders to find financing for equipment purchases. What was recently a hot market — lending to owner-operators for truck purchases — has dried up, he says. “There was a boom for smaller carriers. Small, private lenders had an appetite” to sell those loans, says Misheloff.
+Recently, however, he’s having trouble finding lenders that will work with single-truck owner-operators, with many requiring buyers to operate at least three or five trucks before they’ll issue a loan. Other lenders have tightened standards around truck age and mileage, he said, requiring operators to buy newer models with fewer miles.
+Pulling its weight: How trailer ownership could boost your profits as a leased owner-opBuying your own trailer can be a smart investment, with immediate payback, as long as you can live with its limitations. With market conditions and ...
+“If one or two [lenders] make a change, that really doesn’t mean that much. But when they all start making changes in a short window,” it signals a trend, he says.
+One lender, who traditionally has required 20 percent down on a truck purchase, is still working with owner-operators, says Mischeloff — but they’re now requiring operators to put an additional 20 percent into a maintenance account before issuing a loan.
+“It’s a cyclical market,” says Mischeloff, referring to the recent quick-up, quick-down trucking’s seen over the past two years. Some creditors are preparing for a wave of defaults on truck loans, he says. Anecdotally, he’s heard lenders mention “rising delinquency and rising default rates” on such notes.
+Avery Vise, an analyst at FTR and the firm’s vice president of trucking, said it’s “reasonable for lenders to be cautious” right now, “to protect themselves from something more catastrophic.”
+Spot market rates in the second quarter were trending below the recent five-year average, says Vise, but FTR isn’t forecasting a trucking recession. Rather, the market appears balanced between capacity and freight demand, and general economic indicators like residential construction, manufacturing and employment, while not stellar, don’t indicate any looming economic issues.
+When changing freight lanes, don’t forget to think differently, tooQuick-changing freight conditions affect carriers large and small, and faster than they ever did before as tech greases the change skids. The people who are ...
+[Stay on top of transportation news: Get TTNews in your inbox.]
+
+Preliminary net U.S. trailer orders for June dropped to the lowest point in nearly a decade, just surpassing 6,000, following heavy cancellations amid concerns over the 2020 freight environment, experts said.
+
+
+
+_avp.push({ tagid: 'avp_zid_323', alias: '/', type: 'banner', zid: 323, pid: 1, iframe: true, width: 300, height: 250, refresh: 90, refresh_limit: 60, inview: true });
+
+  
+  Orders plunged 69% to 6,200, compared with a year earlier when they stood at 19,851, ACT Research reported.
+
+Total new orders, before counting cancellations, came in close to 12,000, it said.
+
+
+
+
+
+East Manufacturing Corp. forecasts its overall trailer business will be off 20% compared with a year earlier.
+
+“Freight for vocational is slowing down. The industry overbought two years in a row, again. As an industry, we never learn,” President Dave de Poincy said. “There is a strong case for a more positive forecast if the government would fund the highway bill and the Federal Reserve drop interest rates.”
+
+The Federal Reserve is scheduled to meet in Washington on July 30-31, and does “look primed to ease by a quarter percentage point,” according to Bloomberg News. Negotiations between the Democrats in Congress and President Donald Trump on a $2 trillion infrastructure plan collapsed in May — and remain in a heap, with scant talk of reviving them.
+
+In the meantime, de Poincy said East Manufacturing has opened its order book for the first quarter of 2020 only, with no price protection.
+
+Stoughton Trailers is very close to getting firm component pricing for 2020 and will open its order board after that occurs, said David Giesen, vice president of sales.
+
+The bigger issue seems to be softening demand, Giesen said, as cancellations were relatively low for Stoughton, but big for industry. “The loose orders are getting pulled or reduced from the backlogs as these customers realize they don’t want as much equipment as they reserved.”
+
+FTR pegged June’s net preliminary orders at 5,500.
+
+
+
+
+Ake
+
+
+“Only a couple trailer makers have started taking orders for 2020, and fleets did not respond much to this move in June,” said Don Ake, FTR vice president of commercial vehicles. Ake added it was the lowest monthly volume since September 2009. Still, he saw a silver lining.
+
+“It would appear that the market is returning to normal ordering cycles, with fleets evaluating their next-year requirements during the summer and then starting to place those orders around October,” he said.
+
+Stuart James, chief sales officer at Hyundai Translead, said he expects the industry may see another month, maybe two, of this same level and type of activity before the pace picks up again. He added that orders at Hyundai Translead for the third quarter “are reliably fixed and do not represent a concern. Some of our dealers are taking a cautious view, but still others are adding to their inventory and actively pursuing fourth-quarter retail transactions. The same can be said of some equipment lessors. To date — touch wood — the fleets are holding firm. Overall, we anticipate full production for the year.”
+
+At Utility Trailer Manufacturing, there is no mystery as to what is happening. The reasons are the obvious ones, said Craig Bennett, senior vice president of sales.
+
+These include “uncertainty about trailer production costs in 2020 due to the additional tariffs on China, plus the California Health and Safety rule outlawing the sale of refrigerated trailers in California that have used the chemical compound 245fa in the foaming process,” Bennett said.
+
+California is required to reduce emissions of hydrofluorocarbons — greenhouse gases commonly used in refrigeration — by 40% (below 2013 levels) by 2030 under state legislation and regulations that conform to a federal mandate.
+
+
+
+
+
+HFCs are used in aerosols, foams, refrigeration and air conditioning. The California Air Resources Board has cited them as having a powerful impact on climate as they trap heat in the atmosphere at a rate thousands of times that of carbon dioxide, so much so they have been called super greenhouse gases.
+
+“The new California rule is the most challenging issue as we are still working with our chemical suppliers for suitable replacement formulations, and have been working on it for many months. The rule is scheduled to go into effect Jan. 1,” he said. Bennett also pointed to a slowing economy and lower freight rates, which slows truckers’ capital purchases. In the meantime, “We are largely sold out for 2019 production and have recently begun quoting 2020 production,” he said.
+
+Frank Maly, ACT’s director of commercial vehicle transportation analysis, said, “Despite indications earlier this year that fleets were anxious to place orders for 2020, discussions now indicate that fleets may have shifted to an extremely conservative stance.”
+
+The cancellations are causing churn in the backlog, he said, affecting fourth-quarter production,“and leaving 2019 to close on a weak note, and setting a troublesome foundation for 2020.”
+
+          “Transportation Recession” Gets Uglier by Wolf Richter for Wolf Street
+After the boom comes the bust.
+Freight shipments in the US across all modes of transportation – truck, rail, air, and barge – fell 5.3% in June compared to June last year, after having fallen 6.0% in May, the seventh month in a row of year-over-year declines, according to the Cass Freight Index for Shipments. This decline, along with other freight indicators, including orders for heavy trucks, now clearly outline the new Transportation Recession – number 2 since the Great Recession – in this very cyclical business:
+
+In terms of freight traffic by rail, the Association of American Railroads (AAR) reported that in June overall, volume fell 6.3% from a year ago. The volume of intermodal freight – containers hauled by truck and then transferred to rail, or semi-truck trailers that piggyback on special rail cars – dropped 7.2% in June. For the first half, overall freight volume by rail was down 3.2%, with all segments in the red, except Petroleum and Petroleum Products, which was up 23%! Intermodal was down 3.3%.
+The Cass Freight Index, which tracks shipments of consumer and industrial goods but not bulk commodities such as grains, has now fallen below the June 2014 level. June 2014 had set a record in shipments just before Transportation Recession 1 came along. The boom in 2018 broke the 2014 records, and by a big margin. And now the industry is back in its own recession.
+In the stacked chart below of the Cass Freight Index, the red line denotes 2019 through June, which has now dipped below June 2014 (green line). Note how much of an outlier the boom of 2018 (black line at the top) had been, though it faded sharply at the end of last year:
+
+Also today,  FTR Transportation Intelligence reported that its Trucking Conditions Index for May fell deeper into the negative, the third month in a row in the red, from double-digit gains last year. The index tracks five key conditions in the truck market: Freight volumes, freight rates, fleet capacity, fuel price, and financing. A positive value “represents good, optimistic conditions,” FTR says. A negative value “represents bad, pessimistic conditions”:
+Continue Reading / Wolf Street>>>
+Sharing is caring!FacebookTwitterPinterest(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:11751297078750566,size:[0, 0],id:"ld-4640-8100"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");
+                  
+            
+          
+                
+        By Reade Pickert and Katia Dmitrieva
+
+(Bloomberg)  — U.S. retail sales and factory output in June exceeded expectations and underscored steady economic growth even as Federal Reserve officials signal they’re prepared to reduce interest rates.
+
+Related: J.B. Hunt jumps as outlook shows ‘no doom, no gloom’ in truckingThe value of retail purchases rose 0.4% for a second month, more than the 0.2% median projection in a Bloomberg survey of economists, Commerce Department data showed Tuesday. Production at the nation’s manufacturers also advanced 0.4%, the most this year, according to a separate report from the Fed.
+
+Yields on the 10-year Treasury note rose and the dollar advanced after the reports, though traders maintained bets that the central bank will lower borrowing costs at least a quarter-point later this month.
+
+Related: FTR Trucking Conditions Index weakens in MaySales in the “control group” retail subset, a key gauge which excludes food services, car dealers, building-materials stores and gasoline stations, increased 0.7%, also exceeding projections. In the second quarter, the measure jumped an annualized 7.5%, the strongest quarterly performance since the final three months of 2005. Some analysts view the measure as a more accurate gauge of underlying consumer demand.
+
+Even with the June gain in factory output, the measure fell during the second quarter at a 2.2% annual rate for the first back-to-back declines since 2016  — evidence of weakness that the central bank could potentially cite as one of the reasons for an interest-rate cut.
+
+The retail figures show the biggest part of the economy  — consumer spending -- continues to drive economic growth, while business spending and manufacturing remain the weak links due to tepid global demand and trade policy concerns. The latter, along with muted inflation, help explain why Fed policymakers have indicated they are open to reducing their benchmark interest rate as “insurance” against external risks to the economy.
+
+“The retail sales data today gives you comfort that the domestic economy is in good shape and the consumer is in a good spot," said Michael Gapen, chief U.S. economist at Barclays Plc. “Business spending, business confidence and manufacturing production are where the economy is slowing and if the Fed is looking to insulate the economy, some cuts to support financial market conditions and keep the domestic economy strong is still a reasonable response.”
+
+Another report Tuesday showed sentiment among U.S. homebuilders crept higher in July after falling the previous month, indicating lower mortgage rates are helping shore up demand.
+
+Powell View
+
+The retail gain underscores Fed Chairman Jerome Powell’s view that consumer spending and finances remain healthy amid a tight labor market that’s been supporting the expansion. Strength at retailers may also complicate the debate for policymakers as they gather July 30-31 to chart their course amid growing headwinds from slowing global growth to trade tensions.
+
+Eleven of 13 major retail categories increased, led by a 1.7% increase in nonstore retailers, which include online vendors.
+
+The retail sales gain “feeds into the narrative we’ve been seeing which is consumer strength continuing to support the economy with a strong labor market and wage growth,” said Scott Brown, chief economist at Raymond James Financial Inc. “It’s consistent with consumer spending supporting the overall economy, but part of the strength we’re seeing in the second-quarter numbers is payback because the first quarter was so soft.”
+
+Powell in congressional testimony last week left it all but certain that the Fed is poised to cut rates for the first time in a decade. Still, he told lawmakers that consumer spending has reliably driven growth and rebounded to a solid pace after first-quarter weakness.
+
+The initial reading of second-quarter gross domestic product is due July 26. A survey this month showed growth probably slowed to a 1.8% annualized pace from 3.1%, though consumption was seen picking up.
+
+The Fed’s industrial production report showed manufacturing was bolstered by a solid gain in motor vehicle output. Total industrial production, which includes mines and utilities, was unchanged as milder-than-usual weather reduced demand for air conditioning.
+
+Additional reporting from Kristy Scheuble.
+
+        
+                                        
+		    “Orders” of Heavy Trucks Collapsed by 70% but “Sales” Rose to Highest Level Since 2006: There’s a Lag. And Sales Are Next
+Now there is this phenomenon: Orders for Class 8 trucks – the heavy trucks that move a big part of the goods across the US – have collapsed by about 70% in May and June compared to a year earlier, to just over 10,000 truck-orders per month, the lowest in years. But sales of Class 8 trucks in June, as measured by deliveries to trucking companies and truckers, reached 48,168 units, the highest since 2006. So what gives?
+This chart shows the number of sales of heavy trucks through June  as reported by the Bureau of Economic Analysis (not seasonally adjusted):
+
+Many of the trucks that were delivered in June and earlier this year were ordered in 2018, which was a banner year for truck orders, that soared to all-time records in July and August with over 52,000 orders each month, according to FTR Transportation Intelligence. These orders created a record backlog at manufactures, already operating at capacity, which lengthened the delays in getting the trucks built. These delays led trucking companies to speed up their orders to get them into the system before the others, which further increased orders, backlogs, and delays. And now these orders are being delivered at a near-record pace.
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+But orders for Class 8 trucks started declining late last year. In December last year, shipments of goods across all modes of transportation (truck, rail, barge, and air) began to decline. And the capacity crunch dissipated and turned into over-capacity, which put downward pressure on spot rates for truckers.
+Orders for Class 8 trucks have now plunged eight months in a row and have hit the lows of the 2015-2016 “transportation recession,” to just barely above 10,000 units a month:
+
+So there is no mystery: The big sales numbers being reported currently are largely based on orders that truck manufacturers received last year during the capacity crunch and the ensuing ordering panic. Now, truck manufacturers and their suppliers are working through their backlogs, and these backlogs, given the plunge in orders, are shrinking rapidly.
+These are all 2019 model-year trucks that are being delivered now. Truck manufacturers are in the process of opening up orders for the 2020-model year.
+The last cyclical sales peak occurred in mid-2015 at 40,000 trucks per month. At the time, orders had been declining for months. Sales then dropped 26%. Nurtured by the backlog at the beginning of the “transportation recession,” manufacturers kept up production and sales for a while before it hit home, leading to layoffs at truck manufacturers and engine and component suppliers.
+The lag between orders and sales continued on the upswing, though the lag was shorter, with orders picking up first in late 2016. By February 2017, sales started picking up, as lead times had been whittled down due to lack of orders in 2015 and 2016. Now the same process is beginning to happen, but more extreme.
+
+.adsense_mobile_unit { display: none; } 
+@media only screen and (min-width:320px) and (max-width:480px) { .adsense_mobile_unit { display: inline-block; width: 320px; height: 50px; text-align: center; } }
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+The chart below shows orders and sales, juxtaposed, in terms of the percent change each month from the same month in the prior year. Sales are less volatile than orders because sales have a battery, so to speak, namely the backlog that gets charged up during good times and that manufacturers are able to draw on during tough times for a number of months, when they also cut capacity by laying off workers. That peak year-over-year decline in sales during the transportation recession was in July 2016 at 26%, while orders plunged by over 50%:
+
+So far, so good for truck manufacturers: Peterbilt and Kenworth of Paccar [PCAR]; Navistar International [NAV]; Freightliner and Western Star of Daimler; and Mack Trucks and Volvo Trucks of Volvo Group. The backlog from the pile of orders in 2018 for Class 8 trucks is still feeding them, and they’re still manufacturing at capacity.
+For now, the hope still is that orders for the 2020 model year will start flooding the manufacturers. But trucking companies are adding capacity on a daily basis in form of these new trucks that were ordered last year and that are being delivered now – the “sales” of heavy trucks that have hit the highest level since 2006.
+And given this rapid addition to capacity alongside the current decline in shipments of goods by all modes of transportation, and the downward pressure on spot rates and contract rates, trucking companies have become careful with their ordering strategies, and manufacturers will soon be confronted with the cyclical sales decline that is already preprogrammed by the plunge in orders and the decline in the backlog.
+After truck manufacturers eat up their backlogs, then what? Read... Trucking is Infamously Cyclical, But This is a Tad Extreme 
+Enjoy reading WOLF STREET and want to support it? Using ad blockers – I totally get why – but want to support the site? You can donate “beer money.” I appreciate it immensely. Click on the beer mug to find out how:
+
+
+Would you like to be notified via email when WOLF STREET publishes a new article? Sign up here.
+ 
+
+(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:10719479034516838,size:[0, 0],id:"ld-4856-7585"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");
+(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:9046140985496934,size:[0, 0],id:"ld-9957-5358"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdome.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");
+                
+                        Recent economic reports from trucking industry analysts show a decline in the freight market in the near term, but it could stabilize in the long term.
+Photo via Pixabay
+Recent economic reports from trucking industry analysts show a decline in the freight market in the near term, but it could stabilize in the long term.
+
+In ACT Research’s Freight Forecast for July, the firm affirmed its view that trucking is in the midst of a freight recession, forecasting that truckload and intermodal contract rates would fall this year due to overcapacity and weak freight demand. In turn, overcapacity is expected to give shippers the upper hand in rate negotiations.
+
+“The bad news is we’re in a freight recession, and the factors we focus on tell us spot rates are headed still lower near-term, but that’s been going on for a while,” said Tim Denoyer, ACT Research vice president and senior analyst. "The good news is that for the first time this cycle, we see evidence on the horizon for an eventual bottoming and upturn in spot truckload rates, thanks to low new truck orders and improving capital discipline from the trucking industry.”
+
+FTR’s Trucking Conditions Index, which tracks the changes in the freight volumes, freight rates, fleet capacity, fuel price and financing, showed a negative reading for the month of May, reflecting a general weakness in the major conditions that affect carriers. After starting the year with a positive TCI reading of 5.8, the index has fallen to a new low for the year of -2.3.
+
+Despite the decline, FTR projects a relatively stable outlook for the rest of 2019, with the possibility of some month-to-month improvements.            googletag.cmd.push(function () { googletag.display('div-gpt-ad-incontent01'); });    
+
+“Although we have dropped from double-digit TCI readings to negative readings in less than a year, we believe the outlook for the rest of 2019 generally is for stability close to neutral conditions,” said Avery Vise, vice president of trucking for FTR. “It’s also important to recognize that most of the weakness is in the industrial sector, so trucking activity related to consumer demand should be relatively stronger than the rest of the industry.”
+
+The Cass Freight Index, which measures freight volumes and expenditures of all transportation types and how they relate to the overall economy, has also tracked some alarming declines in 2019. At first, the analysts at Cass Information Systems chalked the declines up to difficult comparisons to 2018, which was a strong year for trucking. However as the declines continued and became more severe, it became hard to ignore the trend.
+
+In May, shipments were down 6% year-over-year and fell by 5.3% in June. The shipments index has gone from a “warning of a potential slowdown” to “signaling an economic contraction,” according to the report.
+
+Cass also noted a weakness in spot market pricing for many transportation modes, but especially in trucking. Spot pricing in trucking declined below contract pricing by so much that it will likely drive weakness in contract pricing. These numbers caused Cass to strengthen its concern about the overall economy and caution that our trade policy is risky in the current environment.
+
+“Tariffs have throttled export volumes in many areas of the U.S. economy, most notably agriculture exports and other select raw materials,” the report reads. “We maintain hope that there will be a resolution; that there will be a trade deal because both China and the U.S. have to reach one.”
+
+
+Related: Spot Market Rates Hit Highest Levels since January
+
+
+                
+            
+      
+        News      
+      Looking for a New Logistics Provider? First Things First
+
+      
+        
+        
+          
+          
+          
+          
+          
+          
+        
+        var addthis_config = {"data_track_clickback":true};
+
+      July 16, 2019 | By John Brown, CEO, Primary LogisticsTags: 3PL, Supply Chain Management, LogisticsThe competitive e-commerce landscape calls for strategic partnerships between growing businesses and logistics providers that put their customers first.
+As e-commerce causes structural changes across the shipping and logistics space, it can be challenging for business owners to find a logistics provider that’s as invested in their business’s success as they are. Indeed, with the breakneck pace of modern fulfillment and the exacting demands put on sellers by industry heavyweights such as Amazon, knowing what to look for in a 3PL or ISP — and what to avoid — is difficult, especially for businesses that are trying to make their way in the e-commerce economy.
+For sellers looking for a new logistics provider, a great place to start and an important criterion to have is customer care. That is, of the 3PLs and ISPs you’re considering, which among them really put their customers first?  
+  
+    <!--
+    OAS_AD('x80');
+    //-->
+    
+While it’s important to invest in a partnership that fits your needs and your budget, it’s equally important to understand what you’re getting with any given price tag. You’re looking for a logistics provider that you can work with for years going forward — a trusted industry expert you can rely on to weather an increasingly challenging fulfillment landscape — and that means that cutting corners could cost you down the road.
+As you prepare to choose a logistics provider, consider what your business needs to excel. Cutting-edge software? A history of e-commerce success? Reliable shipping strategies? All of these are a must — and failing to invest in them could make things uncomfortable sooner rather than later.
+Advanced Management Software
+Whichever logistics provider you choose, they should be able to offer sophisticated warehouse, transportation, and order management systems (WMS, TMS, and OMS, respectively). Each of these has a part to play in the fulfillment pipeline, whether it’s monitoring inventory, routing delivery vehicles, or synthesizing orders from omnichannel platforms.
+Without top-tier WMS, TMS, and OMS platforms in place, it can get difficult to provide your customers with the kind of fulfillment services they’ve come to expect. Inefficient inventory management can lead to backorders, for instance, and subpar routing can lead to delays that may cause customers to bring their business elsewhere in the future.
+E-Commerce Emphasis
+Keeping up with the demands of e-commerce fulfillment can put any supply chain to the test. Between the growing expectation of fast, free shipping and the interest in compelling packaging that inspires joy, businesses need logistics providers that can help them expand their customer base on online marketplaces.
+Lacking the infrastructure to do so, ill-equipped logistics provider may cost you crucial online business. Plus, if you choose to sell through Fulfillment by Amazon or Fulfillment by Merchant, you’ll need to be able to hit key metrics in order to stay in good standing and continue doing business through the platform.
+Responsive Customer Service
+Now more than ever, customers expect to be part of the fulfillment process. This means that they want regular updates, alerts if things are delayed, and responsive customer service should they have any questions. The best logistics providers will be able to offer your customers this kind of support — especially if they have the technology to keep tabs on shipments’ location, status, and more.
+If a logistics provider can’t respond to customer queries, however, you may be in trouble. Patrons who feel that their time isn’t being valued or that they’re not being heard often do more than shop somewhere else — they warn friends, family, and other potential customers to steer clear of your business.
+Investing in the Best Fulfillment Partner for Your Needs
+Ultimately, the best logistics provider for your business will depend on a range of factors, including the size of your budget, the scope of your specific needs, and the nature of your business. While you inevitably will want to find a fulfillment partner that can deliver value to your operation at a price point you can afford, remember to consider what role customer care plays in their overall business model.
+      
+        
+        
+          
+          
+          
+          
+          
+          
+        
+        var addthis_config = {"data_track_clickback":true};
+
+    
+      
+        June 2019 | News | Takeaways      
+      Technology Trends You Can't Ignore
+
+      
+        
+        
+          
+          
+          
+          
+          
+          
+        
+        var addthis_config = {"data_track_clickback":true};
+
+      June 18, 2019Tags: Supply Chain Management, Technology , Supply ChainStrategic technology trends have the potential to drive significant disruption and deliver significant opportunity. Enterprise architecture and technology innovation leaders must evaluate these trends to identify opportunities, counter threats, and create competitive advantage, according to a recent Gartner report.
+Key Report Findings
+Artificial intelligence (AI) opens up a new frontier for digital business. This is because virtually every application, service, and Internet of Things (IoT) object incorporates an intelligent aspect to automate or augment application processes or human activities.
+The way we perceive and interact with technology is undergoing a radical transformation. Conversational platforms, augmented reality, virtual reality, and mixed reality will provide more natural and immersive ambient experiences within the digital world.  
+  
+    <!--
+    OAS_AD('x80');
+    //-->
+    
+Digital representations of things and organizational processes are increasingly used to monitor, analyze, and control real-world environments. These digital twins combined with AI and immersive experiences set the stage for open, connected, and coordinated smart spaces.
+Formal mechanisms to identify technology trends and prioritize those with the biggest potential impact on the business create competitive advantage.
+Recommendations
+Enterprise architecture (EA) and technology innovation leaders driving business transformation through technological innovation must:
+Explore ways that AI-driven autonomous capabilities can power essentially any physical device within the organization or the customer's environment.
+    Educate, engage, and ideate with senior business leaders about their strategically relevant priorities and where AI can automate or augment human activities.
+    Develop and deploy a mix of platforms that incorporate conversational interactions with virtual, augmented, and mixed reality for targeted use cases to create an immersive user experience.
+    Support IoT initiatives by developing and prioritizing targeted, high-value business cases to build digital twins of physical things and organizational processes.
+    Learn about and monitor quantum computing while it is still in the emerging state. Identify real-world problems where it has potential and assess its possible impact on security.
+Strategic Planning Assumptions
+By 2021, 10% of new vehicles will have autonomous driving capabilities, compared with fewer than 1% in 2018.
+    By 2021, half of large industrial companies will use digital twins, resulting in a 10% improvement in effectiveness for those organizations.
+    By 2021, organizations that bypass privacy requirements and are caught lacking in privacy protection will pay 100% more in compliance costs than competitors that adhere to best practices.
+    By 2022, at least 40% of new application development projects will have artificial intelligence co-developers on the team.
+    By 2022, 70% of enterprises will be experimenting with immersive technologies for consumer and enterprise use, and 25% will have deployed them to production.
+    By 2022, more than 50% of all people collaborating in Industry 4.0 ecosystems will use virtual assistants or intelligent agents to interact more naturally with their surroundings and with people.
+    By 2023, 20% of organizations will be budgeting for quantum computing projects, compared to fewer than 1% in 2018
+    Through 2028, storage, computing, and advanced AI and analytics technologies will expand the capabilities of edge devices.
+    By 2030, blockchain will create $3.1 trillion in business value.
+SOURCE: Gartner, The 2019 Top Supply Chain Technology Trends You Can't Ignore, March 2019, Andrew Stevens, Christian Titze
+      
+        
+        
+          
+          
+          
+          
+          
+          
+        
+        var addthis_config = {"data_track_clickback":true};
+
+    
+      
+        June 2019 | News | Takeaways      
+      Digital Forwarders Gain Traction
+
+      
+        
+        
+          
+          
+          
+          
+          
+          
+        
+        var addthis_config = {"data_track_clickback":true};
+
+      June 18, 2019Tags: Freight Forwarders, Technology , Supply ChainDigital forwarding platforms are rapidly gaining traction in a global forwarding market characterized by uneven change, according to Global Freight Forwarding 2019, a new study from Transport Intelligence.
+Technology is creating a vast range of forwarding options available to shippers across the globe—from online booking and quotation to visibility tools and control towers.
+However, "perhaps the most salient characteristic of the present freight forwarding market is that it has not seen a greater level of change," says Thomas Cullen, one of the report's co-authors. "Markets and technologies have both developed significantly, but the overall landscape is broadly similar to that of the previous 10 years and there appears to be little drive within the sector to change things fundamentally."  
+  
+    <!--
+    OAS_AD('x80');
+    //-->
+    
+Technology-enabled forwarders are a catalyst for change in the global forwarding market, the report finds, but a still-unanswered question is the extent to which online marketplaces, booking platforms, and digital forwarders will fundamentally change the market's landscape. What does seem certain is that if forwarders do not prove agile in their adoption of new technology, they will find that they rapidly lose customers looking for the types of visibility, quotation, and easy booking which digital forwarders can provide.
+An extensive market-wide survey carried out for the report supports this conclusion. The survey finds that not only had 49% of participating shippers used an online forwarding platform, but that respondents expect nearly one-fifth (18.7%) of all their volumes to be booked/shipped through such a platform by 2023.
+Among the survey's key findings:
+Traditional forwarders must recognize online forwarding disruptors as a catalyst of change—they will rapidly lose customers looking for better visibility, quotation, and easy booking options if they don't.
+    49% of shippers that took part in a market-wide survey have used an online forwarding platform.
+    By 2023, nearly one-fifth (18.7%) of volumes are expected to be booked/shipped through online forwarding platforms, according to survey respondents
+    The global freight forwarding market grew 3.9% in 2018. Growth slowed from the levels seen in 2017, but the expansion is still one of the fastest seen since 2010.
+
+        
+        
+          
+          
+          
+          
+          
+          
+        
+        var addthis_config = {"data_track_clickback":true};
+
+    
+      
+        News      
+      Who’s Paying for Free Shipping?
+
+      
+        
+        
+          
+          
+          
+          
+          
+          
+        
+        var addthis_config = {"data_track_clickback":true};
+
+      July 10, 2019 | By Jeff Burkett, Director, Harris Williams Transportation & Logistics GroupTags: 3PL, E-commerce, Supply ChainAs someone who specializes in logistics, I see my fair share of Amazon-related studies and reports. One of the most recent — the 2019 Amazon Consumer Behavior Report from Feedvisor — offered some eye-opening statistics.
+Perhaps most compelling is the degree to which Amazon’s dominance and influence continues to grow. For instance, nearly 9 out of 10 (89%) consumers say they are more likely to buy products from Amazon than any other e-commerce site. The reach of its membership-based Prime program is growing, too: more than half (55%) of the 20,000 consumers Feedvisor surveyed are now subscribed to the service.
+Clearly, Amazon has the potential to disrupt many aspects of business for retailers, shippers and 3PLs. Its recent, well-documented entry into the U.S. freight brokerage market is one example, although the full ripple effects of this move remain to be seen.  
+  
+    <!--
+    OAS_AD('x80');
+    //-->
+    
+Intensifying expectations
+More immediate is the power Amazon has to shift consumer behavior and mindsets: Consumers now expect shipping to be free and fast.
+Recently, Amazon announced that it would be offering free one-day shipping on some items to its Prime customers, versus the free two-day shipping it currently offers. This new offering would not require a minimum purchase, versus the current $35 minimum for free one-day shipping.
+Of course, few things of value are truly free. In this case, consumers pay $119 per year for free shipping (an increase of $20 over last year) and the other benefits Prime membership brings, such as access to select digital content.
+Rather than getting free shipping, Amazon Prime consumers are paying in advance for shipping they believe they will need: $10 worth per month. For most, it probably makes sense — especially judging by the volume of Amazon-labeled parcels I see on local doorsteps every day.
+The Feedvisor study supports this impression. Eighty-eight percent of Amazon Prime members order monthly or more often, versus 56% of non-members. Forty-eight percent of Prime members shop on the site once a week or more often. So one could argue that most are getting strong value from that $10 monthly fee. Therefore, it’s no surprise that 76% say they are very likely to keep their membership.
+What 3PLs can do…
+What does all of this mean for third-party logistics companies? With fast, free (or very low-cost) shipping now the expectation among consumers, 3PLs are in a critical position to enable their retailer customers to compete more effectively with Amazon and other online marketplaces.
+In particular, 3PLs must remain laser focused on driving costs out of their systems, so they can ultimately drive down costs for their customers’ supply chains. That can help free up the money to pay for faster delivery at low or no cost to consumers.
+We’ve seen several of our 3PL clients do this by focusing on operational efficiencies. Some efficiencies, such as those made possible by artificial intelligence–supported automation and large-scale robotics, may require significant upfront cost. I’m excited by what I’ve seen of new, smaller, less expensive collaborative robots, or cobots, which work alongside humans in warehouses and distribution centers. Cobots have the potential to add efficiency to parts of a 3PL’s operations at a fraction of the cost of full automation or larger robots.
+…and the role of retailers
+For their part, retailers should remember that “free delivery” doesn’t actually have to be completely free. As the research shows, consumers are willing to pay a certain amount in exchange for speed and convenience. For Amazon, at least, selling delivery separately from products themselves and applying it to more than one purchase in a time period seems to be working. At the point of purchase, delivery looks free to the consumer, rather than an additional charge.
+Another way to reduce friction at the point of sale is to bundle the price of delivery into the product price itself. Consumers may be willing to pay such a premium for faster delivery and guaranteed quality from retailers with established reputations. Indeed, the study says 49% of consumers are worried about counterfeit products from Amazon.
+While 3PLs and retailers have many options to compete in an Amazon world, inaction is not one of them. Amazon plans to invest an incremental $800 million in the second quarter alone to bring standard one-day shipping to Prime customers.
+In other words, Amazon clearly sees the value of investing in fast, “free” delivery. Tomorrow’s leading retailers and 3PLs do, too.
+ 
+Harris Williams, an investment bank specializing in M&A advisory services, advocates for sellers and buyers of companies worldwide through critical milestones and provides thoughtful advice during the lives of their businesses. Jeff Burkett is a director in the firm’s Transportation and Logistics Group. For more information about the firm or its experience, please visit www.harriswilliams.com.
+      
+        
+        
+          
+          
+          
+          
+          
+          
+        
+        var addthis_config = {"data_track_clickback":true};
+
+    
+      
+        May 2019 | Feature Stories      
+      Automation Innovation
+
+      
+        
+        
+          
+          
+          
+          
+          
+          
+        
+        var addthis_config = {"data_track_clickback":true};
+
+      May 31, 2019 | By Karen KrollTags: Materials Handling, Technology , Supply ChainInnovations in materials handling solutions help cut costs and boost accuracy in the supply chain.When Magid, a manufacturer and distributor of personal protective equipment, consolidated several warehouses in Chicago to a single facility outside the city, management "took advantage of the clean sheet of paper to look for ways to use automation to drive productivity, improve order cycle time, and be more efficient," says Dave Forberg, vice president of operations.
+Management also wanted to gain greater control over the 25,000-plus items the company carries in inventory. Previously, many items were scattered among the warehouses.
+Forberg and his colleagues turned to a goods-to-person order fulfillment solution that incorporates a Multishuttle from Dematic, a provider of technology solutions for warehouses and distribution centers. The Dematic Multishuttle stores, buffers, and sequences products between bulk stock and other functions such as picking and order assembly.  
+  
+    <!--
+    OAS_AD('x80');
+    //-->
+    
+Compared to other options, the Multishuttle solution offered a more effective way to store and manage loose products into totes within a contained area. "We have a system of 26 multi-shuttle robots," Forberg notes.
+Inbound inventory moves from the receiving area to decanting workstations. Each stock-keeping unit (SKU) is checked in, unloaded, and placed into a tote. Each tote moves to the Multishuttle storage subsystem, which delivers to the goods-to-person workstations when required for order picking. When a tote arrives at the workstation, a monitor displays both an image of the SKU and the number to be picked. Once the required SKUs have been picked, the conveyor system moves the customer order cartons to the shipping area.
+A warehouse management system (WMS) works in conjunction with the Dematic warehouse execution system (WES) to manage piece-picking operations, replenishment, and stock control. It also controls the real-time flow of orders through the goods-to-person workstations, enhancing efficiency. "It's all fully automated," Forberg says.
+throughput up, cycle time down
+Since implementing the system, throughput has increased by about 75%, while order cycle time has been cut. "The productivity gains have been enormous," Forberg says, adding that many orders can be on the dock 45 minutes after they're received.
+Like Magid, many shippers are looking for ways to increase the capabilities of their materials handling solutions, typically through automation. "The drivers for automation are more powerful than ever," says Ken Ruehrdanz, manager, distribution systems market, with Dematic.
+Automation can mitigate the ongoing labor crunch many companies face, while also helping them more efficiently and accurately handle ever-increasing volumes of SKUs. Moreover, the cost of many materials handling solutions are coming down, putting them within reach of a larger range of shippers.
+Another shift that's influencing materials handling technology is the prioritization of flexibility over productivity, says Fergal Glynn, vice president of marketing with 6 River Systems, a robot provider. Traditional automation solutions, such as conveyor systems, tend to be highly productive, but inflexible. The rise in e-commerce and the corresponding increase in heterogenous orders has increased the need for flexibility.
+Many materials handling solutions can be placed roughly into three categories, says Gary Allen, vice president of supply chain excellence with Ryder Systems. The first consists of the technologies proven and available now, such as conveyors and sortation systems.
+Next are the up-and-comers such as drones, which likely will have greater value as their battery life improves.
+The final piece is integration and visibility. The data that trackers and sensors generate needs to be integrated with the warehouse management or control system to provide the most value by, for instance, providing alerts when a shipment is delayed.
+Many innovations within materials handling solutions incorporate both older and newer technologies. Lift trucks are one example. Thirty years ago, a lift truck operator would have to manually port oil to the cylinder while lifting the control handle hooked to the hydraulic control valve and a switch that turned on the lift pump to lift the mast, says Jim Gaskell, director of global technology business development with Crown Equipment Corporation, a manufacturer of materials handling equipment.
+Now, this process is computerized. As a result, today's lift and lower systems are more than 60% faster, while also lifting more weight and using less energy. In another change, the typical lift height has increased from about 270 inches to between 400 and 500 inches. That has enabled taller warehouses, a key feature where land is tight or expensive.
+As lift heights grew, so did lift speed, increasing from about 100 feet to 160 feet per minute. What's more, today's trucks can sense when the forks are empty, and will lower them more quickly than when they're full, improving throughput. "Thirty years ago, that kind of stuff was fantasy," Gaskell says.
+Rollers that move items on racking or shelving for packaging also are changing. For instance, along with the standard roller system that uses gravity to move items on racking, a new solution incorporates individual rollers that can accommodate different box types, says Brian Chen, product manager with Unex Manufacturing, an order picking solutions provider. This allows shippers to accommodate a mix of box sizes without spending time straightening boxes.
+Furniture maker La-Z-Boy continually monitors innovations in the materials handling space. One that's of interest is the use of artificial intelligence to facilitate the movement of goods. For instance, software can schedule materials to arrive where they're needed, just as they're needed, minimizing bottlenecks and inefficiencies. "It's a great example of how technology is integrated to manufacturing," says Darrell Edwards, the company's senior vice president and chief supply chain officer.
+Another example is automated equipment, such as automated guided vehicles (AGVs), due to their ability to enhance employee safety—a priority at La-Z-Boy. The potential cost savings also are key. Edwards notes that moving parts or product throughout buildings is a non-value-added activity. Shifting this work to machines will provide "the opportunity to re-purpose talent in areas where more customer value can be created," he says.
+While the concept of an autonomous forklift—essentially an AGV—has been around since the 1950s, recent improvements in the adaptability, navigation, and flexibility of the technology, as well as lower costs, are boosting adoption, says George Prest, CEO of MHI, a materials handling, logistics, and supply chain organization.
+Fueling Forklifts
+The energy that powers forklifts also has advanced from lead acid batteries, which are the same kind used in cars, to alternative fuel cells, and now to lithium ion batteries. The advantages? Lithium ion batteries charge more quickly, require less maintenance, and hold a charge longer. The drawback to lithium ion batteries had been cost, but that is coming down, Gaskell says.
+Goods-to-person solutions, in which robots, typically directed by an order management system, bring containers filled with SKUs to employees who pick the items needed to fill orders, are gaining ground. They can reduce the distances employees must travel through a warehouse, boosting productivity. "Instead of picking 150 pieces per hour, employees can do 500 to 600 pieces per hour because they're not wandering the warehouse," Ruehrdanz says.
+Going one step further are goods-to-robots solutions. As their name implies, these robots fill orders by picking items from donor totes, a process that's "very repeatable and ideal for robots," Ruehrdanz says. The solutions have moved past development and into commercialization.
+Moreover, robots can complement existing materials handling systems. This is key, because even though many companies need more flexible materials handling solutions to accommodate a growing volume of e-commerce orders, few can justify simply ripping up solutions in which they've invested large sums of money.
+APPLY AI
+Robots also can apply artificial intelligence to learn a warehouse environment so they can navigate it autonomously and adapt to changes in the layout, says Lior Elazary, chief executive officer with Invia Robotics.
+To be sure, the success of these solutions often varies with the type and variety of items to be picked. For instance, health and beauty products tend to be both lightweight and boxed, making them easier for many robots to manipulate than clothing packaged in slippery plastic bags.
+Most robots still lack fine manipulation skills, at least at a cost that makes sense for most applications. That may change as labor costs rise and the costs of the solutions drops. Depending on the items they're handling, robots might use grippers, suction, or pneumatic devices to move goods.
+Robots also need to be programmed to work with a company's warehouse management system so they complement, rather than interfere with, other equipment, Chen says. He notes that many robot developers provide software engineers that work with companies to link the robots with the warehouse management system.
+Companies introducing goods-to-robots solutions are best served by starting with products, like health and beauty items, that are "going to be rock solid," Ruehrdanz says. After showing the solution's effectiveness, they can move to more complex products and packages.
+Another key to success is "modular, standardized sub-systems," Ruehrdanz says. By reducing customization, companies gain more predictable performance, shorter implementation schedules, and easier system reconfiguration when business changes, he notes.
+Finally, even as technology advances, people remain essential. "For a project to be effective, it still comes down to people," Edwards says. The key stakeholders need to understand the problem you're trying to solve and should have a seat at table where their voices can be heard.
+"It's ironic but true," Edwards notes. "Regardless of how automated the systems, success or failure lies with the people side of the business."
+      
+        
+        
+          
+          
+          
+          
+          
+          
+        
+        var addthis_config = {"data_track_clickback":true};
+
+    
+      
+        News      
+      Achieving Transportation and Logistics Success in the On-demand Age
+
+      
+        
+        
+          
+          
+          
+          
+          
+          
+        
+        var addthis_config = {"data_track_clickback":true};
+
+      July 02, 2019 | By Brian Hodgson, SVP of Industry Strategy at Descartes Systems GroupTags: E-commerce, Technology , Supply ChainWith heightened consumer demand for rapid delivery of items such as clothing, technology and even food products showing no sign of slowing, companies and their transportation partners are under immense pressure to produce, manage, fulfill and distribute an unprecedented amount of consumer goods, while at the same time deliver positive shopping experiences for customers across the board. Although consumers may seldom consider the technology and supply chain processes behind their online and in-store purchases, behind the scenes, it is important for organizations having a stake in the movement of goods to address these challenges head-on.
+Across diverse industries, companies that are seeing the most success are the ones that no longer view transportation management and logistics as a backend function. Instead, they’re bringing it to the forefront by introducing the right mix of technology solutions and strategies to ensure things that matter most to brands, like on-time delivery to customers and avoidance of detrimental stock-outs, are accomplished.
+To help navigate these challenges, we’ve outlined the following tactics that have proven to improve control over distribution processes and, in turn, maximize efforts that contribute to the bottom line.  
+  
+    <!--
+    OAS_AD('x80');
+    //-->
+    
+Omnichannel Tests Fulfillment
+As e-commerce continues to explode, consumers have come to expect and will only continue to demand more digital options in everything they do – whether online or in-store. Shoppers want convenience, access to a large assortment of available products, and a frictionless experience in all aspects of their journeys. It’s clear that online and in-store aren’t mutually exclusive anymore and, in fact, are stronger when paired together to create a comprehensive omnichannel approach. While inherently challenging, mastering omnichannel and creating a unified customer experience across all channels can be what sets innovators apart from the laggards.
+When Lionel Racing consolidated train and NASCAR operations in North Carolina in 2012, annual outbound shipments went from $25M to $75M+, inbound containers went from 75 to 300+, inventory quintupled from $4M to $20M, and warehouse space doubled to 150,000 sq. ft. Lionel’s omnichannel distribution strategy made handling the growth even more complex, as the company had to meet the rigorous requirements of each unique channel, from mass retailers and dealers/wholesalers to e-commerce, direct-to-consumer, and corporate programs.
+Lionel turned to technology to systematize and automate order fulfillment processes and satisfy channel requirements, such as branded boxes, ASNs and GS1-128 (UCC-128) labels for direct-to-consumer customers (e.g., Amazon); rapid turnaround for the e-commerce channel; and multiple order consolidation and vendor-compliant labeling for a mix of small package and freight shipments for dealers and wholesalers. Whether it’s the cross-docking batch process that eliminated 22 hours of processing time, or mobile scanning technology and integrated QC that achieves 100% accuracy for the dealer/wholesaler channel, logistics technology has helped Lionel to transform warehouse and shipping operations in support of its omnichannel goals.
+Route Planning Bakes in Agility
+Route planning technology moves the ability to plan deliveries, schedule appointments, optimize routes, dispatch orders and communicate with drivers to a completely paperless environment. This allows things like reassigning deliveries, responding to customer changes on the fly and managing exceptions tasks to be done virtually instantaneous. With more intelligent route planning, companies also have a nimbleness that’s even more critical during times like peak seasons.
+Edward Don & Company, as an example, requires consistent delivery for its customers of independent restaurants, national chains, healthcare, hospitality, country clubs, schools, universities and government institutions. One of the company’s mottos is “50,000 to 1, Don has your needs,” which speaks to its huge selection in foodservice equipment and supplies, and, indirectly, to the route planning technology that delivers Don’s goods every day from six distribution facilities nationwide.
+With companies like Edward Don & Company that deliver over thousands of items available for immediate shipment, route planning allows for those deliveries to be made the next morning in most cases—even if customers place orders the night before. The technology helps companies organize all of their shipments for the next day, optimize the amount of driving that a driver does, and optimize the number of products that go onto a truck so that each route is as efficient as possible, all of which come together to create unmatched services found elsewhere.
+Mobile Ties It Together
+One of the largest food distributors in the U.S., U.S. Foods made the move from paper to a mobile solution that supports more than 5,000 drivers every day. As Federico Masias, Senior Director of IT Supply Chain Systems at U.S. Foods explains, “It’s created a new way of servicing customers by enabling drivers to receive routes, orders and manifests electronically.”
+With mobile devices, drivers have everything they need to wirelessly confirm deliveries and other details in real-time—including electronic proof of delivery (POD). This allows for easier capture of signatures to signify the safe arrival of items at their destination, and digital pictures to confirm if goods are free of damage and that no items are missing, which can otherwise prove costly or detrimental to a company’s reputation if not properly documented. And since some solutions also integrate different types of payment methods, mobile can quicken billing cycles even further — a clear benefit.
+Moving further into 2019 and beyond, we expect that transportation and logistics will continue to transform in parallel with changing consumer behaviors, preferences and demands. For distribution-intensive companies, technologies that support omnichannel strategies, route planning and mobile may be worth consideration when tackling transportation and logistics challenges to keep pace with evolving customer demands.
+About the Author
+Brian has over 20 years of sales and business development experience. He has worked with hundreds of companies to apply enterprise software and process improvements to drive value and cost savings in their supply chain and logistics functions. In 2012, Brian joined Oz Development and now, as part of Descartes, he is focused on market strategy and sales enablement to increase customer value. Brian has held executive positions in sales and marketing with Kewill, SupplyWorks, Eleven Technology and Computer Network Technology. He received his Bachelor of Science in Electrical Engineering from the University of Waterloo.
+      
+        
+        
+          
+          
+          
+          
+          
+          
+        
+        var addthis_config = {"data_track_clickback":true};
+
+    
+      
+        May 2019 | News | Takeaways      
+      Your Next Walmart Run: Don't Forget the AI
+
+      
+        
+        
+          
+          
+          
+          
+          
+          
+        
+        var addthis_config = {"data_track_clickback":true};
+
+      May 31, 2019Tags: Retail, Technology , Supply ChainA Walmart Neighborhood Market in Levittown, New York, featuring artificial intelligence-enabled cameras, interactive displays, and a massive data center is the retailer's new Intelligent Retail Lab (IRL).
+While the application of artificial intelligence (AI) in e-commerce is now table stakes, few companies have physically explored its potential. Until now.
+Positioned within one of the company's busiest locations, the IRL is set up to gather information about what's happening inside the store through an array of sensors, cameras, and processors. All this hardware is connected by enough cabling to scale Mt. Everest five times and enough processing power to download three years' worth of music each second.  
+  
+    <!--
+    OAS_AD('x80');
+    //-->
+    
+The first thing this equipment will help the IRL team focus on is product inventory and availability. In short, the team will use real-time information to explore efficiencies that will allow associates to know more precisely when to restock products, so items are available on shelves when they're needed.
+Here's one example: When you go shopping, you want the products you buy to be in stock when you get to the store. In IRL, a combination of cameras and real-time analytics will automatically trigger out-of-stock notifications to internal apps that alert associates when to re-stock. This means the store has to automatically:
+Detect the product on the shelf.
+    Recognize the specific product (decipher the differences between one pound of ground beef and two pounds of ground beef, for example).
+    Compare the quantities on the shelf to upcoming sales demand.
+The result is that associates won't have to continually comb the store to replace products running low on the shelves. They'll know what to bring out of the back room before customers show up. With the technology in IRL, customers can trust that the products they need will be available during the times they shop.
+Because there are many such scenarios to test, IRL will be in data-gathering mode in its early days. The focus will be on learning from the technology, not hastily implementing changes to operations.
+So, before jumping to more futuristic concepts, the IRL team is starting with real, practical solutions such as the meat inventory example, as well as making sure shopping carts are available and registers are open.
+Walking into the IRL for the first time is both familiar and unique. There are the expected staples: associates, cash registers, and shelves with thousands of products. There are also features that stick out right away, such as a glass-encased data center bathed in blue glow.
+The idea of a live shopping environment infused with AI is exciting, but it also raises questions about all the visible technology. This was a key consideration for the team while designing IRL, and the store includes multiple information stations that customers can visit to understand exactly how AI makes the store tick.
+As customers shop, they can interact with many educational displays. Small educational kiosks are interspersed throughout the store. A Welcome Center allows customers to dive deeper into technical specifications and common questions.
+But, the real fun is just outside the data center where the servers are housed. Flanking the plexiglass windows are two large displays—one of which encourages participants to move around and learn how technology reacts to body positioning.
+Among the customers who'll be absorbing knowledge are IRL associates, who will be undertaking these retail experiments every day. With technology performing mundane tasks like evaluating if shopping carts need to be corralled, associates will be able to spend more time on tasks humans can do best, such as helping customers or adding creative touches to merchandise displays.
+—Matt Smith, Walmart
+      
+        
+        
+          
+          
+          
+          
+          
+          
+        
+        var addthis_config = {"data_track_clickback":true};
+
+    
+                
+                        Peloton has announced a new Level truck platooning system that does not require a driver in the following truck.
+Photo: Peloton
+If you were wondering how platooning technology developer Peloton would respond to Daimler Truck and Bus chief Martin Daum's recent remarks casting doubt on the potential of truck platooning technology, wonder no more. According to  CEO Josh Switkes, Peloton is doubling down on its technology efforts, announcing a new, Level 4 driverless platooning system at the Automated Vehicle Symposium in Orlando, Florida, on July 17.
+
+“This is our first public report announcing what we’re seeing in our field testing,” Switkes said in an interview with HDT. “Daimler announced they’re not seeing good results with their platooning system. And we’re now ready to say publicly that we are absolutely seeing good results with ours – both in terms of fuel savings and enhanced safety.”
+
+Peloton’s Automated Following, announced in Orlando, is an advanced platooning system, using vehicle-to-vehicle (V2V) technology to enable a single driver to drive a pair of vehicles. It marks the next major milestone in Peloton’s unique approach to deploying automation to increase the safety and productivity of commercial vehicles. Switkes said the new system can double the efficiency of a single driver, who will eventually be able to command premium pay and status for mastering this new transportation skill.
+
+Peloton’s proprietary technologies link pairs of heavy trucks for connected driving that improves aerodynamics, fuel economy and safety, using V2V communications and radar-based active braking systems, combined with vehicle control algorithms.
+
+“We’ve taken a different approach to commercial introduction of automation in Class 8 vehicles.” Switkes told HDT. “We see the drivers as the world’s best sensors, and we are leveraging this to enable today’s drivers to be more productive through automated following platoons.”            googletag.cmd.push(function () { googletag.display('div-gpt-ad-incontent01'); });    
+
+
+Related: Daimler Nixes Truck Platooning to Focus on Autonomous Technology
+
+
+Automated Following is a Level 4 autonomous system that requires no driver in the following truck. “This essentially doubles the productivity of the driver in the lead truck,” Switkes told HDT. “Fleets will be able to effectively drive a pair of trucks down the road with only one driver, delivering a reduction in operation costs.
+
+"The reason we can do with is because Automated Following leverages the skill, experience and intuition of professional drivers to take their skills to the next level. Those capabilities allow our system to handle a lot of situations and maneuvers – construction zones are a prime example – that are challenging for fully autonomous vehicles. That’s why we believe that drivers that learn and qualify to use Automated Following will be among the highest skilled professionals in the industry, able to offer fleets the ability to expand operations, create additional capacity while being more cost effective.”
+
+
+Related: Does Truck Platooning Work in the Real World?
+
+
+
+
+Switkes added that these benefits will result in improved work for drivers through better routes, schedules and compensation, as well as better quality of life through expanding hub-to-hub and relay-style operations that allow drivers to be home with their families every night.
+
+Peloton’s existing Level 1 (driver assistive) system, PlatoonPro, has a driver in both the lead and follow trucks. The driver in the follow truck steers, but the system controls the powertrain and brakes to manage the following distance very precisely and to provide immediate reaction to whatever acceleration or braking the lead truck performs.
+
+PlatoonPro is currently in operation with six customers and additional customer fleet trials are underway.  In each case the customer and Peloton have seen a perfect safety record, according to the company. Switkes confirmed that in testing, Peloton’s customer trucks have shown fuel savings averaging over 7%.
+
+“We have seen very high percentages of miles platooned, as high as 90%,” Switkes added. “Platooned miles per day have exceeded 700 miles per truck in some cases, resulting in projected fuel savings per truck up to $7,000-10,000 per year.”
+
+Watch a short video demonstrating Peloton Automatic Following:
+ 
+
+                
+            
+                
+                        J.B. Hunt Transport Services’ digital freight-matching platform, Carrier 360, also features a recently announced trailer pool and drop-and-hook service called 360Box.
+Photo: J.B. Hunt
+Disruption. Transparency. Visibility. Efficiency. Trust. Collaboration. Algorithms. Artificial Intelligence. This is the vocabulary of the rapidly changing world of technology and logistics.
+
+Some envision technology in the freight market doing what Uber and Lyft have done in the ride-sharing market or Airbnb in the vacation market. But automating logistics is much more complex.
+
+There are indeed a fast-growing number of automated load-matching technologies. But other technology solutions take a wide range of approaches to better connect carriers, shippers, and freight brokers, to make logistics and supply chains run more efficiently, and to drive more profits for users. There’s everything from digital brokers and electronic load boards to sophisticated systems that manage the entire process from load tender to payment. Some focus on the immediate transaction of the spot market. Others aim to foster greater collaboration.
+
+“The power of software and technology, combined with relationships, has the potential to make the whole freight and logistics value chain much more efficient and effective,” says Jeff Hopper, chief marketing officer for DAT Services, which got its start replacing truckstop load boards of handwritten note cards pinned to a bulletin board with electronic displays.
+
+
+Related: How Logistics Technology is Helping Small Carriers and Brokers Compete
+
+
+
+                        This carrier sourcing screen from EKA’s Omni-TMS is one example of how technology is changing the way brokers, carriers, and shippers interact.
+Image: EKA
+
+
+Freight-matching in the spot market
+
+Only about 30% of the freight moved by truck is transacted on the spot market, according to FTR. Shippers and carriers alike want the stability of long-term contracts for certain lanes. But there’s still plenty of transactional freight, and a lot of inefficiencies to be addressed, as spreadsheets, notebooks, telephones and laminated maps are still the tools of choice for many small brokers and carriers.            googletag.cmd.push(function () { googletag.display('div-gpt-ad-incontent01'); });    
+
+“Commercial freight is still fraught with archaic, antiquated means of how you connect a load with a transporter,” says Mike Williams, CEO of uShip, which started 15 years ago as a sort of eBay for people wanting to find a bit of extra capacity for small shipments such as items of furniture. The company has expanded into other areas, including a less-than-truckload platform and a partnership with global logistics giant DB Schenker.
+
+“I think the biggest change has been the ability to move to a digital relationship from an email and phone relationship – that’s where everybody’s trying to get to,” says Robert Brothers, manager of product development for McLeod Software.
+
+While Silicon Valley startups aiming to drag the industry into the 21st century have gotten a lot of attention, there are many established brokers and third-party logistics companies using technology to better serve shipper customers and carriers in their network.
+
+For instance, one of the world’s largest 3PLs, C.H. Robinson, offers its contract carriers electronic tools called Navisphere, with features such as SmartMatch, which intuitively finds loads for you, and billing status, which lets you quickly see payments issued on loads.
+
+XPO Logistics says 22,000 carriers have signed up with its mobile app, Drive XPO, since its launch last year. More than 50% of the company’s loads are now offered to its carriers electronically, customized for their preferences.
+
+Some companies have turned to digital brokerage opportunities after seeing first-hand industry needs.
+
+Lidia Yan founded Next Trucking, a digital broker focused on drayage at Southern California ports. Traditional brokers, she says, “have their more preferred carriers they work with. The digital brokers can bring transparency. We allow shippers to connect directly without a lot of human intervention. It gives more to the carriers, because they will be paid a fair market price. And the shippers can trace and track.”
+
+Digital broker Transfix was started five years ago by founders with experience in the trucking and brokerage business. “Like any other broker, our job is to help get shippers and carriers connected,” explains Drew McElroy, co-founder and CEO. But it tries to streamline that as much as possible via technology.
+
+“The vast majority of people moving freight are still old-school brokers,” he says, matching loads one by one. “In any given market on any day, we know how many drivers are looking for loads and how many loads we have. Our system looks at best solutions for minimizing empty mileage and wait time for these 30 loads and 30 drivers.” Transfix uses algorithms to match freight and trucks that allow its carriers to get more loaded miles on a weekly basis. “Our goal is to have choices the minute you deliver – or even before you deliver – your headhaul.”
+
+The magic of matching
+
+Using technology to help match available loads with available trucks on the spot market is not a new concept. Truckstop.com, for instance, started using the internet in the ’90s (then known as Internet Truckstop) to create a virtual load board, and it has continued to invest in technology to help match trucks and loads.
+
+“We’re not trying to eliminate the relationship between carriers and brokers,” says Truckstop.com CEO Paris Cole. By giving visibility to both sides into factors such as pricing, the company believes it can eliminate a lot of waste in those calls.
+
+Transplace was founded in 2010 as an internet-based transportation logistics company. “Finding the next load for a truck before it’s been dispatched on the first leg or while it’s on the first leg is harder than it seems,” says Jeff Thomas, senior vice president of capacity services. “Through artificial intelligence, we’ve been able to identify opportunities that have a strong possibility of success, and that is translating to fewer empty miles and more multi-leg dispatches. Quite frankly, it’s good for us, for the carrier and for the shipper, and it’s keeping trucks in our network.”
+
+There are a number of companies that aim to take even more inefficiencies out of the process, even entirely automating load-matching.
+
+Convoy, for instance, in February announced that it had achieved 100% matching in key markets. “What automated matching means is no humans are involved in helping the carrier find the job,” explains Nikhil Jaipuria, director of product, carriers. “What we’ve seen is matching a carrier with a particular load is one of the more time-consuming and expensive tasks. In the traditional brokerage model it takes about 100 phone calls, and carriers say they spend 50 to 75% of their time looking for loads. Through the Convoy app, what we’ve done is largely eliminated the call-intensive brokerage model and are allowing carriers to get matched with loads automatically.” However, Convoy also relies on humans to augment the technology when brokering specialized loads or when it has specific demands from shippers.
+
+
+                        Technology can be used not only for instant freight-matching and pricing, but also for addressing longer-term needs, such as with Lanehub’s software, which helps shippers find freight for empty legs in their private or dedicated fleets.
+Photo: Lanehub
+Beyond the spot market
+
+Matching up freight with available capacity outside of the usual bid-and-contract process is not limited to the spot market.
+
+Lanehub, for instance, says its technology lets shippers and carriers work together to improve utilization on lanes on a longer-term basis. Shippers load their lane networks into the company’s software. “It will show them which other members line up well with their network, and they can mutually agree to share those cases where they do have fits between them,” explains Chandler Hall, COO and executive vice president. Say one shipper has freight going from point A to point B, while another has freight going from B to A. Lanehub’s software will show them those matches and help the two connect to set up a deal. Many shippers use it to find freight on empty legs in their private or dedicated fleets. They also can work with their carriers to help reduce empty miles or get more consistent freight.
+
+EKA Solutions, which is rolling out a cloud-based, end-to-end Omni-TMS for shippers, carriers, and brokers, developed a marketplace module, EKA MPlace. It lets shipper and brokers trade with precision in the more dynamic carrier capacity price environment, says J.J. Singh, EKA founder, chairman and CEO.
+
+A shipper may have a new customer or a new lane not covered by its existing long-term carrier contracts and route guide, explains EKA President Mark Walker. “They don’t just want to shop it out to just anybody” in the spot market, he says. “Shippers can put that shipment [in mPlace] so their trusted carriers and brokers can see the load and make a longer-term deal.”
+
+Supply chain visibility
+
+Visibility is key in this new world. This includes the ability to know where trucks are at all times – something that has been made easier with the electronic logging device mandate and rapid advances in vehicle telematics – as well as visibility into pricing, detention, and other areas.
+
+Part of what’s driving this demand for visibility in the supply chain is what’s called the Amazon effect. E-commerce customers expect to know when their shipment is
+
+going to arrive and where it is in the system. While that can happen with big parcel carriers such as UPS and FedEx, small carriers that can’t provide that kind of visibility may be left out of the market.
+
+“If Amazon ships it on a small carrier, we’re not going to know where that order is,” explains EKA’s Walker. EKA says its cloud-based Omni-TMS platform is affordable for small- to medium-size carriers, as well as smaller shippers and brokers.
+
+ “With capacity as tight as it’s been, it’s been very difficult for shippers to get their freight moved and have visibility into those freight movements,” says Bryan Coyne, general manager of visibility for Trimble Transportation. Visibility companies such as 10-4 (now part of Trimble Visibility) or FourKites do a good job of helping shippers see where their loads are, he says, whether they are being hauled by a contract carrier or through a brokerage relationship.
+
+“One of the huge things technology is bringing to the table when we look at the supply chain is having the ability to see, across multiple different carriers, the freight movements that are out there, so [shippers] can more accurately plan their activity,” Coyne says. “Whether it’s inbound supplies for factories or the outbound distribution, they can direct their resources in the right area.”
+
+While Trimble Visibility’s customers are shippers, carriers that have contracts with those shippers are also entered into the system, giving those carriers the ability to provide the kind of visibility that “may be table stakes to the shipper,” he says.
+
+Automating rates
+
+One of the key areas of visibility made possible by newer technology in pricing and payments.
+
+For instance, McLeod offers its customers digital freight-matching tools within its TMS. The difference today, Brothers says, is in pricing visibility that allows carriers to make a decision on a price immediately.
+
+“In the past when you got a tender, you had a contracted price you agreed on through some bid process, or you picked up the phone and negotiated a price. The pricing is now part of the communication mechanism. Brokers and shippers are able to do that because the pricing data available in the market is so much better and so much more reliable,” Brothers explains.
+
+In the past, it was hard to know the true price of a load, says Convoy’s Jaipuria. “One of the things that helps carriers earn more is automated bidding.” Through Convoy’s app, carriers can specify the lanes they want to run, when they’ll be empty, and what rate works for their business. For every load that comes into the Convoy network, the app automatically compares it with their preferences. If it works, the load is offered in the app and all the carrier has to do is accept. “No negotiating, no back and forth, no calling brokers to check for new loads. One tap and you’re done.”
+
+Another example is Loadsmart. It integrates with the shipper’s transportation management system via API to access shipment data, and runs each shipment through a machine learning pricing algorithm to return a live, bookable rate directly to the shipper’s TMS. This allows the shipper to compare the prices from other carriers and brokers, which are logged in their static rate tree, with Loadsmart’s bookable rate. Instead of the shipper’s load planner manually comparing Loadsmart’s pre-spot dynamic prices with static rates from their routing guide, this is done automatically on a server. Because it is given real-time, the rate is always live and can be booked with one click.
+
+Technology providers say pricing automation has the potential to deliver lower costs for shippers, but at the same time higher rates for carriers, because the broker doesn’t take as big of a bite.
+
+“Brokers were not always thought of as good business partners,” says Kate Kaufman, director of account ops for Uber Freight. “You were just expecting to be taken advantage of.” She says shippers have been surprised by the low rates, but like Uber Rides, Uber Freight pricing is based on proven algorithms and on what’s happening right now in the marketplace.
+
+“Carriers are equally surprised,” she says.  “Because we’re not engaging in that hidden margin, where who knows if [the broker] took 10% or 50%, our prices are fair [and] we put them out there for everyone to see. And that has changed the game.”
+
+
+                        Load-matching technology has come a long way since DAT Solutions got its start with Dial-A-Truck load boards in truckstops.
+Photo: DAT Solutions
+Building trust and collaboration
+
+While some freight may be able to be matched entirely without human interaction, few believe this technology will bring about the end of brokers and 3PLs.
+
+“There is plenty of room to automate some of the transactions in the marketplace, and to make them fully digital where price is the only element,” says EKA’s Walker. But it doesn’t work for all types of freight. He cites produce, for instance. “Few people can transport produce because it has so many unusual characteristics and special handling issues around it. You can probably think of other non CPG [consumer packaged goods] type freight that’s not just drop a trailer and move it from point A to point B and I’m done.” Oversize loads, for instance, and high-security loads such as pharmaceuticals or defense.
+
+“There is only a certain type of freight that is applicable to total digitization,” Singh adds. “The market is so big that even if it’s only 10 to 15%, you create a lot of bling. They are not going to be able to take over the world.”
+
+In fact, technology can improve collaboration and relationships between shippers, carriers, and brokers, by building trust.
+
+“Transparency and trust has always been an issue in the industry, and by using technology in our approach to trucking, we want to make sure carriers have control to make the best decisions,” says Convoy’s Jaipuria. “But across the board we’re driving more efficiency and transparency, which I think will engender more trust. The shipper gets a higher quality of service, and carriers get high-quality loads and have piece of mind they will get paid as promised.”
+
+DAT’s Hopper contends trust is becoming even more important. “I think like in anything in the business world, smart people who are serious about solving business problems realize that trust is important. Brokers are realizing this, too, and they’re going to treat carriers well and find good loads for them. As a neutral platform, we feel we’re helping them facilitate that.”
+
+Part of that involves crowd-sourced data that helps carriers and shippers decide who they want to – and don’t want to – work with.
+
+Transfix, for example, gives shippers and carriers the ability to rate each other. “If you’re not behaving well, in our network we capture that and there starts to be real implications,” McElroy says. Drivers who don’t make appointments get matched with loads less frequently. Shippers who continually detain carriers? “Those sort of things get reflected in your price. We’re making the consequences of bad behavior start to be felt by folks.”
+
+Since Uber Freight added shipper facility ratings to its load-matching app, in much the same way it added user ratings to its rideshare platform, “we see a lot more emphasis on the shipper side into the collaboration they can have with the carrier,” says Xinfeng Le, Uber Freight’s carrier product lead. “The shipper wants to become the shipper of choice for carriers so they can attract high-quality carriers to haul loads for them and lower their costs in terms of carrying trucking capacity.”
+
+KeepTruckin, a company that started out as an electronic log provider and since has moved into fleet management solutions and load-matching, also has added shipper facility insights to its platform. “We’ll be able to deliver to carriers what the driver experience is at those facilities and leverage the power of the network to deliver those insights,” says CEO Shoiab Makani. “We think it’s going to be really valuable for our carriers to understand the shippers they serve and make better planning decisions.”
+
+One company believes blockchain-driven smart contracts will enable a system of “trust but verify.”
+
+DexFreight is in final beta-testing of a decentralized, blockchain-based logistics platform that uses smart contracts used by shippers, carriers and “other supply chain stakeholders,” such as brokers.
+
+“Everyone talks about taking out the middleman, about the broker disappearing, but we have a different vision,” says dexFreight co-founder Hector Hernandez. “Blockchain is not about tracking or pricing. It’s about collaboration, a new business model. I think there’s going to be an evolution of the role of the 3PL.”
+
+Disruption or evolution?
+
+Next Trucking’s Lidia Yan believes that in the long run, digital brokers will be able to replace traditional brokers. But not everyone does.
+
+“I know some [traditional brokerage/3PL companies] are trying to go the technology way and want to do their own freight-matching software or TMS,” she says. “But technology startups, we’re faster, we’re more efficient, we’re smaller and more nimble, so we can adapt to the market a lot faster, where large traditional brokers have to disrupt themselves.”
+
+KeepTruckin’s Makani doesn’t like the word disruption. “I think that’s the wrong framing. I think business is evolving. Fleets, carriers, are recognizing that they can benefit from technology. There was a lot of resistance at one point, but that has really changed. You’re seeing drivers, even small fleets recognize they need to use modern technology if they want to compete.”
+
+At the same time, however, “We think brokers and 3PLs serve an important function. To us it’s not about replacing the broker or 3PL – it’s about enabling them, allowing them to access capacity in a much more efficient way.”
+
+Truckstop.com’s Cole also takes issue with the notion of disruption. “These new entrants, and the funds being poured into technology in the transportation and logistics industry, it’s bringing awareness of what technology can do. Unfortunately, I think sometimes some of the new entrants talk about how they’re going to ‘disrupt’ the industry more than they talk about how they’re going to enable the industry.”
+
+Transplace’s Thomas believes technology that completely replaces the relationships between shipper, carrier, and broker or 3PL with automation is “probably missing the finer points. Ultimately there are still choices. People do business with the people they want to do business with. I believe the companies that will flourish will keep relationships with carriers as part of their arsenal.”
+
+
+Related: Why Fleets Should Care About Logistics and Supply Chains
+
+
+                
+            
